@@ -1,0 +1,24 @@
+<settings>
+    <global>
+        <X>0</X>
+        <Y>0</Y>
+        <Zoom>100</Zoom>
+        <Opacity>75</Opacity>
+        <ShowPC>true</ShowPC>
+        <ShowNPC>true</ShowNPC>
+        <ShowMob>true</ShowMob>
+        <ShowMarker>true</ShowMarker>
+        <ShowTargetLine>true</ShowTargetLine>
+        <Ranges></Ranges>
+    </global>
+    <Tegamen>
+        <X>1668</X>
+        <Y>434</Y>
+        <Zoom>35</Zoom>
+    </Tegamen>
+    <Terrana>
+        <X>1670</X>
+        <Y>428</Y>
+        <Zoom>30</Zoom>
+    </Terrana>
+</settings>

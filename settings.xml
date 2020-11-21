@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <autoload>
+    <addon>battlemod</addon>
+    <addon>cancel</addon>
+    <addon>Debuffed</addon>
+    <addon>DistancePlus</addon>
+    <addon>TParty</addon>
+    <addon>GearSwap</addon>
+    <addon>ohShi</addon>
+    <addon>Omen</addon>
+    <addon>azureSets</addon>
+    <addon>findAll</addon>
+    <addon>boxdestroyer</addon>
+    <addon>checkparam</addon>
+    <addon>ConsoleBG</addon>
+    <addon>EmpyPopTracker</addon>
+    <addon>FastCS</addon>
+    <addon>instaLS</addon>
+    <addon>MyHome</addon>
+    <addon>remember</addon>
+    <addon>shortcuts</addon>
+    <addon>Tab</addon>
+    <addon>Trusts</addon>
+    <addon>Treasury</addon>
+    <addon>enternity</addon>
+    <addon>Pouches</addon>
+    <addon>AutoRA</addon>
+    <addon>rolltracker</addon>
+    <addon>thtracker</addon>
+    <addon>Dimmer</addon>
+    <addon>autoenterkey</addon>
+    <addon>macrochanger</addon>
+    <addon>organizer</addon>
+    <addon>send</addon>
+    <addon>SpellBook</addon>
+    <addon>SubTarget</addon>
+    <addon>itemizer</addon>
+    <addon>capetrader</addon>
+    <plugin>Config</plugin>
+    <plugin>DelayMeNot</plugin>
+    <plugin>FFXIDB</plugin>
+    <plugin>InfoBar</plugin>
+    <plugin>Timers</plugin>
+    <plugin>Guildwork</plugin>
+    <plugin>Sandbox</plugin>
+  </autoload>
+  <profile name="">
+    <consolekey>Insert</consolekey>
+    <uiscale>1</uiscale>
+  </profile>
+  <profile name="Matt">
+    <consolekey>Insert</consolekey>
+    <uiscale>1</uiscale>
+    <hardwaremouse>false</hardwaremouse>
+    <supersampling>2</supersampling>
+  </profile>
+  <profile name="Alts">
+    <consolekey>Insert</consolekey>
+    <windowmode>Window</windowmode>
+    <width>960</width>
+    <height>540</height>
+    <uiscale>1</uiscale>
+    <hardwaremouse>false</hardwaremouse>
+    <sound>false</sound>
+    <alwaysplaysound>false</alwaysplaysound>
+  </profile>
+</settings>

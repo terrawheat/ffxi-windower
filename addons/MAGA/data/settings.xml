@@ -1,0 +1,37 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <debug>false</debug>
+        <delay>0.75</delay>
+        <display>
+            <bg>
+                <alpha>192</alpha>
+                <blue>0</blue>
+                <green>0</green>
+                <red>0</red>
+            </bg>
+            <padding>3</padding>
+            <pos>
+                <x>0</x>
+                <y>0</y>
+            </pos>
+            <text>
+                <alpha>255</alpha>
+                <blue>255</blue>
+                <font>Consolas</font>
+                <green>255</green>
+                <red>255</red>
+                <size>10</size>
+            </text>
+        </display>
+        <fern>true</fern>
+        <pellucid>true</pellucid>
+        <profiles>
+            <default>
+
+            </default>
+        </profiles>
+        <style />
+        <taupe>true</taupe>
+    </global>
+</settings>

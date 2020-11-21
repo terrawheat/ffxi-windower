@@ -1,0 +1,63 @@
+keyboard_allowmmf 1
+
+//Set console variables
+console_position 15 50
+console_color 255 255 0 0
+console_displayactivity 1
+console_fadedelay 3500
+console_chatopen 1
+console_screendir screenshots
+
+//Set game variables
+game_forceambientlight 0
+game_ambientlight 255 120 120 120
+game_gamma 50
+game_allowsetcursorpos 0
+game_exittype 1
+game_exitprompt 1
+game_allowresize 0
+
+//Set general variables
+//showfps 1
+// FPS Position - Use -75 1 to position it on the top right corner.
+//fps_position 5 5 //top left
+fps_position -75 1 //top right
+
+drawdistance set 10
+//Bind keys
+//Bind syntax is "bind <key> <up> <command>
+// ^ represents control- and ! is alt, eg !1 is alt-1
+bind !f10 drawdistance set 10
+bind ^f10 drawdistance set 1
+bind f11 game_forceambientlight
+bind f12 showfps
+bind sysrq screenshot png hide
+bind ^v paste
+echo Toggle Lighting = F11 (Bump mapping must be off to work properly)
+echo Toggle FPS = F12
+echo DrawDistance Lv 10: Alt-F10
+echo DrawDistance Lv 1: Ctrl-F10
+echo Paste Clipboard = Ctrl-V
+
+//Sets ConsoleBG Background Position
+consolebg position 15 50
+
+//du blinking all all on
+lua load XIPivot
+//lua load dressup
+Pivot a XI-View
+Pivot a FFXI-HD
+lua load equipviewer
+// lua load PartyBuffs
+// sb visible
+//du blinking self combat off
+equipviewer pos 1560 680
+wait 30
+lua load parse
+lua load GearInfo
+lua load Skillchains
+lua load grimoire
+lua load TradeNPC
+lua load quicktrade
+lua load sparks
+config FrameRateDivisor 1

@@ -1,0 +1,128 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <auto>true</auto>
+        <language>English</language>
+        <sets>
+            <abyproc>
+                <1>Yoran-Oran (UC)</1>
+                <2>Koru-Moru</2>
+                <3>Joachim</3>
+                <4>Ulmia</4>
+            </abyproc>
+            <aoesolo>
+                <1>Brygid</1>
+                <2>Star Sibyl</2>
+                <3>Kupofried</3>
+                <4>Moogle</4>
+                <5>Sakura</5>
+            </aoesolo>
+            <default>
+                <1>August</1>
+                <2>Arciela</2>
+                <3>Joachim</3>
+                <4>Ulmia</4>
+                <5>Yoran-Oran (UC)</5>
+            </default>
+            <dnc>
+                <1>Mumor</1>
+                <2>Lilisette II</2>
+                <3>Mayakov</3>
+                <4>Uka Totlihn</4>
+                <5>Yoran-Oran (UC)</5>
+            </dnc>
+            <drgsolo>
+                <1>August</1>
+                <2>Yoran-Oran (UC)</2>
+                <3>Shantotto II</3>
+                <4>Rainemard</4>
+                <5>Joachim</5>
+            </drgsolo>
+            <geos>
+                <1>Brygid</1>
+                <2>Star Sibyl</2>
+                <3>Kupofried</3>
+                <4>Moogle</4>
+                <5>Sakura</5>
+            </geos>
+            <geosolo>
+                <1>August</1>
+                <2>Iroha II</2>
+                <3>Koru-Moru</3>
+                <4>Yoran-Oran (UC)</4>
+                <5>Zeid II</5>
+            </geosolo>
+            <kaiolil>
+                <1>Amchuchu</1>
+                <2>Selh&apos;teus</2>
+                <3>Kupipi</3>
+                <4>Yoran-Oran (UC)</4>
+            </kaiolil>
+            <lilith>
+                <1>Amchuchu</1>
+                <2>Selh&apos;teus</2>
+                <3>Koru-Moru</3>
+                <4>Kupipi</4>
+                <5>Yoran-Oran (UC)</5>
+            </lilith>
+            <lvl>
+                <1>Yoran-Oran (UC)</1>
+                <2>Kupofried</2>
+                <3>Qultada</3>
+                <4>August</4>
+                <5>Rainemard</5>
+            </lvl>
+            <omen>
+                <1>August</1>
+                <2>Arciela</2>
+                <3>Joachim</3>
+                <4>Shantotto II</4>
+                <5>Yoran-Oran (UC)</5>
+            </omen>
+            <terrana>
+                <1>Shantotto II</1>
+                <2>Koru-Moru</2>
+                <3>Yoran-Oran (UC)</3>
+                <4>Qultada</4>
+            </terrana>
+            <terranamain>
+                <1>Valaineral</1>
+                <2>Sylvie (UC)</2>
+                <3>Koru-Moru</3>
+                <4>Selh&apos;teus</4>
+                <5>Zeid II</5>
+            </terranamain>
+            <terranasolo>
+                <1>Valaineral</1>
+                <2>Sylvie (UC)</2>
+                <3>Zeid II</3>
+                <4>Tenzen</4>
+                <5>Joachim</5>
+            </terranasolo>
+            <trial>
+                <1>Yoran-Oran (UC)</1>
+                <2>Ulmia</2>
+                <3>Koru-Moru</3>
+            </trial>
+            <woe>
+                <1>Yoran-Oran (UC)</1>
+                <2>Amchuchu</2>
+                <3>Qultada</3>
+                <4>Kupipi</4>
+                <5>Joachim</5>
+            </woe>
+            <woesolo>
+                <1>Yoran-Oran (UC)</1>
+                <2>Amchuchu</2>
+                <3>Kupipi</3>
+                <4>Joachim</4>
+                <5>Selh&apos;teus</5>
+            </woesolo>
+        </sets>
+        <wait>
+            <aftercast>3</aftercast>
+            <retr>1.25</retr>
+            <retrall>3</retrall>
+        </wait>
+    </global>
+</settings>
