@@ -27,37 +27,30 @@ drawdistance set 10
 //Bind keys
 //Bind syntax is "bind <key> <up> <command>
 // ^ represents control- and ! is alt, eg !1 is alt-1
-bind !f10 drawdistance set 10
-bind ^f10 drawdistance set 1
-bind f11 game_forceambientlight
-bind f12 showfps
-bind sysrq screenshot png hide
 bind ^v paste
-echo Toggle Lighting = F11 (Bump mapping must be off to work properly)
-echo Toggle FPS = F12
-echo DrawDistance Lv 10: Alt-F10
-echo DrawDistance Lv 1: Ctrl-F10
-echo Paste Clipboard = Ctrl-V
 
 //Sets ConsoleBG Background Position
 consolebg position 15 50
 
-//du blinking all all on
 lua load XIPivot
-//lua load dressup
-Pivot a XI-View
-Pivot a FFXI-HD
 lua load equipviewer
-// lua load PartyBuffs
-// sb visible
 //du blinking self combat off
 equipviewer pos 1560 680
-wait 30
+lua load sendalltarget
 lua load parse
-lua load GearInfo
 lua load Skillchains
 lua load grimoire
 lua load TradeNPC
 lua load quicktrade
 lua load sparks
+lua load superwarp
+lua load smeagol
+lua load shout_ml
 config FrameRateDivisor 1
+
+exec alias.txt
+exec binds.txt
+
+wait 30
+
+lua load GearInfo

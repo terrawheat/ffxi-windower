@@ -10,6 +10,12 @@
                 <3>Joachim</3>
                 <4>Ulmia</4>
             </abyproc>
+            <ambu>
+                <1>August</1>
+                <2>Yoran-Oran (UC)</2>
+                <3>Koru-Moru</3>
+                <4>Lilisette II</4>
+            </ambu>
             <aoesolo>
                 <1>Brygid</1>
                 <2>Star Sibyl</2>
@@ -20,16 +26,15 @@
             <default>
                 <1>August</1>
                 <2>Arciela</2>
-                <3>Joachim</3>
-                <4>Ulmia</4>
-                <5>Yoran-Oran (UC)</5>
+                <3>Ulmia</3>
+                <4>Yoran-Oran (UC)</4>
+                <5>Joachim</5>
             </default>
             <dnc>
-                <1>Mumor</1>
-                <2>Lilisette II</2>
-                <3>Mayakov</3>
-                <4>Uka Totlihn</4>
-                <5>Yoran-Oran (UC)</5>
+                <1>Lilisette II</1>
+                <2>Mayakov</2>
+                <3>Yoran-Oran (UC)</3>
+                <4>Matsui-P</4>
             </dnc>
             <drgsolo>
                 <1>August</1>
@@ -58,6 +63,12 @@
                 <3>Kupipi</3>
                 <4>Yoran-Oran (UC)</4>
             </kaiolil>
+            <kaioodin>
+                <1>August</1>
+                <2>Koru-Moru</2>
+                <3>Yoran-Oran (UC)</3>
+                <4>Matsui-P</4>
+            </kaioodin>
             <lilith>
                 <1>Amchuchu</1>
                 <2>Selh&apos;teus</2>
@@ -79,18 +90,39 @@
                 <4>Shantotto II</4>
                 <5>Yoran-Oran (UC)</5>
             </omen>
+            <solotega>
+                <1>August</1>
+                <2>Matsui-P</2>
+                <3>Joachim</3>
+                <4>Koru-Moru</4>
+                <5>Yoran-Oran (UC)</5>
+            </solotega>
             <terrana>
-                <1>Shantotto II</1>
-                <2>Koru-Moru</2>
-                <3>Yoran-Oran (UC)</3>
-                <4>Qultada</4>
+                <1>Amchuchu</1>
+                <2>Apururu (UC)</2>
+                <3>Joachim</3>
+                <4>Koru-Moru</4>
             </terrana>
+            <terranacor>
+                <1>Amchuchu</1>
+                <2>Apururu (UC)</2>
+                <3>Matsui-P</3>
+                <4>Arciela</4>
+                <5>Joachim</5>
+            </terranacor>
+            <terranadi>
+                <1>Koru-Moru</1>
+                <2>Selh&apos;teus</2>
+                <3>Zeid II</3>
+                <4>Apururu (UC)</4>
+                <5>Lilisette II</5>
+            </terranadi>
             <terranamain>
-                <1>Valaineral</1>
-                <2>Sylvie (UC)</2>
-                <3>Koru-Moru</3>
-                <4>Selh&apos;teus</4>
-                <5>Zeid II</5>
+                <1>Amchuchu</1>
+                <2>Matsui-P</2>
+                <3>Zeid II</3>
+                <4>Koru-Moru</4>
+                <5>Apururu (UC)</5>
             </terranamain>
             <terranasolo>
                 <1>Valaineral</1>
@@ -118,6 +150,13 @@
                 <4>Joachim</4>
                 <5>Selh&apos;teus</5>
             </woesolo>
+            <wsunlock>
+                <1>Apururu (UC)</1>
+                <2>Ayame</2>
+                <3>Koru-Moru</3>
+                <4>Kupipi</4>
+                <5>Amchuchu</5>
+            </wsunlock>
         </sets>
         <wait>
             <aftercast>3</aftercast>

@@ -1,10 +1,10 @@
 <?xml version="1.1" ?>
 <settings>
     <global>
-        <exclusions>home point #5,home point #4,waypoint,survival guide,home point #3,home point #1,home point #2</exclusions>
+        <exclusions>home point #2,home point #4,waypoint,survival guide,home point #3,home point #1,home point #5</exclusions>
         <frame_rate_divisor>1</frame_rate_divisor>
     </global>
     <tegamen>
-        <frame_rate_divisor>1</frame_rate_divisor>
+
     </tegamen>
 </settings>

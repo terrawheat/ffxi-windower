@@ -78,10 +78,17 @@
                 <y>49</y>
             </pos>
         </text>
-        <tracking>apademak</tracking>
+        <tracking>orthrus</tracking>
         <visible>false</visible>
     </tegamen>
     <terrana>
+        <text>
+            <pos>
+                <x>1268</x>
+                <y>14</y>
+            </pos>
+        </text>
+        <tracking>isgebind</tracking>
         <visible>false</visible>
     </terrana>
 </settings>

@@ -29,6 +29,33 @@
                     <prelude>0</prelude>
                 </song_bonus>
             </joachim>
+            <terrana>
+                <emperean_armor_bonus>2</emperean_armor_bonus>
+                <gjallarhorn>true</gjallarhorn>
+                <jp>
+                    <minne>0</minne>
+                    <minuet>20</minuet>
+                </jp>
+                <merits>
+                    <madrigal>5</madrigal>
+                    <minne>0</minne>
+                    <minuet>5</minuet>
+                </merits>
+                <song_bonus>
+                    <all_songs>6</all_songs>
+                    <ballad>1</ballad>
+                    <carol>1</carol>
+                    <etude>1</etude>
+                    <madrigal>1</madrigal>
+                    <mambo>1</mambo>
+                    <march>1</march>
+                    <mazurka>0</mazurka>
+                    <minne>0</minne>
+                    <minuet>1</minuet>
+                    <paeon>2</paeon>
+                    <prelude>1</prelude>
+                </song_bonus>
+            </terrana>
             <ulmia>
                 <emperean_armor_bonus>0</emperean_armor_bonus>
                 <gjallarhorn>false</gjallarhorn>
@@ -59,6 +86,7 @@
         </Bards>
         <Cors>
             <qultada>0</qultada>
+            <tegamen>5</tegamen>
         </Cors>
         <Geos>
             <Sylvie>0</Sylvie>
@@ -71,19 +99,19 @@
         </display>
         <image_folder_name>default</image_folder_name>
         <player>
-            <rank>1</rank>
-            <show_COR_messages>true</show_COR_messages>
-            <show_DW_Stuff>false</show_DW_Stuff>
+            <rank>10</rank>
+            <show_COR_messages>false</show_COR_messages>
+            <show_DW_Stuff>true</show_DW_Stuff>
             <show_Defence>false</show_Defence>
-            <show_Evasion>false</show_Evasion>
+            <show_Evasion>true</show_Evasion>
             <show_MA_Stuff>false</show_MA_Stuff>
-            <show_STP>false</show_STP>
-            <show_acc_Stuff>false</show_acc_Stuff>
+            <show_STP>true</show_STP>
+            <show_acc_Stuff>true</show_acc_Stuff>
             <show_att_Stuff>false</show_att_Stuff>
             <show_dt_Stuff>true</show_dt_Stuff>
             <show_logo>false</show_logo>
             <show_total_haste>true</show_total_haste>
-            <show_tp_Stuff>false</show_tp_Stuff>
+            <show_tp_Stuff>true</show_tp_Stuff>
             <update_gs>true</update_gs>
         </player>
     </global>

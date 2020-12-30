@@ -6,7 +6,7 @@ sets.roll = {
   feet={ name="Lanun Bottes +1", augments={'Enhances "Wild Card" effect',}},
   neck="Twilight Torque",
   left_ear="Ethereal Earring",
-  left_ring={ name="Dark Ring", augments={'Phys. dmg. taken -4%','Magic dmg. taken -2%',}},
+  left_ring="Defending Ring",
   right_ring="Barataria Ring",
   back={ name="Camulus's Mantle", augments={'INT+20','Eva.+9 /Mag. Eva.+9',}},
 }
@@ -44,13 +44,14 @@ sets.idle = {
   neck="Twilight Torque",
   left_ear="Etiolation Earring",
   right_ear="Infused Earring",
-  left_ring="Warden's Ring",
+  left_ring="Defending Ring",
   right_ring={ name="Dark Ring", augments={'Phys. dmg. taken -4%','Magic dmg. taken -2%',}},
   back="Solemnity Cape",
 }
 
 sets.rng = {}
 sets.rng.snapshot = {
+  ammo = 'Titanium Bullet',
   head = "Pursuer's beret",
   body = "Pursuer's doublet",
   legs={ name="Lanun Trews" },
@@ -60,7 +61,7 @@ sets.rng.snapshot = {
 }
 
 sets.rng.atk = {
-  head = "Pursuer's beret",
+  head = "Malignance Chapeau",
   body = "Pursuer's doublet",
   hands="Meg. Gloves +1",
   legs="Meg. Chausses +1",
@@ -68,8 +69,8 @@ sets.rng.atk = {
   neck="Ocachi Gorget",
   waist="Kwahu Kachina Belt",
   left_ear="Volley Earring",
-  left_ring="Cacoethic Ring",
-  right_ring="Longshot Ring",
+  right_ring="Cacoethic Ring",
+  left_ring="Dingir Ring",
   back={ name="Camulus's Mantle", augments={'AGI+20','Rng.Acc.+20 Rng.Atk.+20','AGI+10','Weapon skill damage +10%',}},
 }
 
@@ -82,12 +83,12 @@ sets.ws.leadenSalute = {
   hands="Pursuer's Cuffs",
   legs="Shned. Tights +1",
   feet={ name="Lanun Bottes +1", augments={'Enhances "Wild Card" effect',}},
-  neck="Sanctity Necklace",
+  neck="Stoicheion Medal",
   waist="Salire Belt",
   left_ear="Friomisi Earring",
   right_ear={ name="Moonshade Earring", augments={'Attack+4','TP Bonus +250',}},
-  left_ring="Arvina Ringlet +1",
-  right_ring="Acumen Ring",
+  left_ring="Dingir Ring",
+  right_ring="Archon Ring",
   back={ name="Camulus's Mantle", augments={'AGI+20','Rng.Acc.+20 Rng.Atk.+20','AGI+10','Weapon skill damage +10%',}},
 }
 
@@ -105,9 +106,9 @@ sets.ws.lastStand = {
   neck="Fotia Gorget",
   waist="Fotia Belt",
   left_ear={ name="Moonshade Earring", augments={'Attack+4','TP Bonus +250',}},
-  right_ear="Ishvara Earring",
-  left_ring="Hajduk Ring",
-  right_ring="Cacoethic Ring",
+  right_ear="Thrud Earring",
+  right_ring="Hajduk Ring",
+  left_ring="Dingir Ring",
   back={ name="Camulus's Mantle", augments={'AGI+20','Rng.Acc.+20 Rng.Atk.+20','AGI+10','Weapon skill damage +10%',}},
 }
 
@@ -120,7 +121,7 @@ sets.ws.savage = {
   neck="Lacono Neck. +1",
   waist="Prosilio Belt",
   left_ear={ name="Moonshade Earring", augments={'Attack+4','TP Bonus +250',}},
-  right_ear="Ishvara Earring",
+  right_ear="Thrud Earring",
   left_ring="Karieyh Ring",
   right_ring="Ifrit Ring",
   back="Buquwik Cape",
@@ -129,7 +130,7 @@ sets.ws.savage = {
 sets.tp = {}
 
 sets.tp.normal = {
-  head={ name="Carmine Mask +1", augments={'Accuracy+20','Mag. Acc.+12','"Fast Cast"+4',}},
+  head="Adhemar Bonnet +1",
   body={ name="Adhemar Jacket", augments={'DEX+10','AGI+10','Accuracy+15',}},
   hands={ name="Adhemar Wristbands", augments={'DEX+10','AGI+10','Accuracy+15',}},
   legs="Samnuha Tights",
@@ -138,7 +139,7 @@ sets.tp.normal = {
   waist="Windbuffet Belt +1",
   left_ear="Mache Earring +1",
   right_ear="Brutal Earring",
-  left_ring="Rajas Ring",
-  right_ring="Chirich Ring",
+  left_ring="Epona's Ring",
+  right_ring="Petrov Ring",
   back="Bleating Mantle",
 }

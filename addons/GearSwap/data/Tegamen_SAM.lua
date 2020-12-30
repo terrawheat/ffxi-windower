@@ -8,14 +8,27 @@ function self_command(command)
   if command == 'ToggleDT' then
     if DTMode == true then
       DTMode = false
-      equip(sets.tp)
+      equip(sets.tp[sets.tp.indices[sets.tp.current]])
       tellMe('DTMode is now off')
     else
       DTMode = true
-      equip(set_combine(sets.tp, sets.dt))
+      equip(set_combine(sets.tp[sets.tp.indices[sets.tp.current]], sets.dt))
       tellMe('DTMode is now on')
     end
   end
+
+  if command == 'ToggleAcc' then 
+    local new_index = sets.tp.current + 1;
+    if #sets.tp.indices < new_index then
+      tellMe('Accuracy Set: ' .. sets.tp.indices[1])
+      sets.tp.current = 1
+    else
+      tellMe('Accuracy Set: ' .. sets.tp.indices[new_index])
+      sets.tp.current = new_index
+    end
+    equip(sets.tp[sets.tp.indices[sets.tp.current]])
+  end
+
   if command == 'ToggleTH' then
     if THMode == true then
       THMode = false
@@ -52,34 +65,24 @@ function buff_change(n, gain, buff_table)
   if S{"terror","petrification","sleep","stun"}:contains(name) then
     if gain then
       tellMe('Incapacitation occurred... switching to DT.')
-      equip(sets.dt)
+      if name == "sleep" then
+        equip(set_combine(sets.dt, {
+          neck = 'Vim Torque +1'
+        }))
+      else
+        equip(sets.dt)
+      end
     elseif not has_any_buff_of({"terror","petrification","sleep","stun"}) then
       if player.status == 'Engaged' then
         tellMe('Incapacitation lifted... back to normal')
-        equip(sets.tp)
+        equip(sets.tp[sets.tp.indices[sets.tp.current]])
       end
     end
   end
 end
 
 function IdleState()
-  if DTMode == true then
-    if THMode == true then
-      equip(set_combine(sets.dt, { 
-        head = "Wh. Rarab Cap +1",
-      }))
-    else
-      equip(sets.dt)
-    end
-  else
-    if THMode == true then
-      equip(set_combine(sets.idle, { 
-        head = "Wh. Rarab Cap +1",
-      }))
-    else
-      equip(sets.idle)
-    end
-  end
+  equip(sets.idle)
 end
 
 function EngagedState()
@@ -87,16 +90,9 @@ function EngagedState()
 
   if DTMode == true then
     dtStatus = 'ON'
-    equip(set_combine(sets.tp, sets.dt))
+    equip(set_combine(sets.tp[sets.tp.indices[sets.tp.current]], sets.dt))
   else
-    if sets.th_active == true then
-      tellMe('Switching to TP/TH set')
-      equip(set_combine(sets.tp, {
-        head = "Wh. Rarab Cap +1",
-      }))
-    else
-      equip(sets.tp)
-    end
+    equip(sets.tp[sets.tp.indices[sets.tp.current]])
   end
 
   tellMe('Switching to TP Set - DT: ' .. dtStatus)
@@ -115,7 +111,11 @@ function pc_JA(spell)
     if spells.ws.hybrid:contains(spell.english) then
       equip(sets.hybrid_ws)
     else
-      equip(sets.ws)
+      if sets.tp.current == 2 then
+        equip(sets.ws_acc)
+      else
+        equip(sets.ws)
+      end
     end
   end
 

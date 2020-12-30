@@ -1,0 +1,17 @@
+bind delete so /follow Tegamen;input /echo Follow: Start
+bind ^delete so exec unfollow.txt;input /echo Follow: End
+
+bind end timers delete "NiTro Available";send Terrana exec brd/start.txt; input /echo BRD Buffs;wait 22;timers create "NiTro Available" 600 down
+bind ^end send Terrana exec brd/rebuff.txt; input /echo BRD Rebuffs
+
+bind home sat youtarget Terrana;wait 0.5;send Terrana exec brd/engage.txt;input /echo BRD engage
+bind ^home sat youcommand Terrana /magicfinale;input /echo BRD dispel
+bind !home exec sleeps.txt
+
+bind !e send Terrana /erase teg
+bind @e stna
+
+bind ^f4 sa /mount raptor
+bind ~f4 sa /dismount
+
+bind !a sat allattack

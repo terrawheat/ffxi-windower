@@ -97,7 +97,7 @@ function status_change(new, old)
 end
 
 function precast(spell, act)
-  if spell.action_type == 'Ability' then 
+  if spell.action_type == 'Ability' or spell.action_type == 'Ranged Attack' then 
     pc_JA(spell, act)
   elseif spell.action_type == 'Magic' then
     pc_Magic(spell, act)
@@ -105,7 +105,7 @@ function precast(spell, act)
 end
 
 function midcast(spell, act)
-  if spell.action_type == 'Ability' then
+  if spell.action_type == 'Ability' or spell.action_type == 'Ranged Attack' then
     mc_JA(spell, act)
   elseif spell.action_type == 'Magic' then 
     mc_Magic(spell, act)

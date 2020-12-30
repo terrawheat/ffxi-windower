@@ -14,6 +14,8 @@ function self_command(command)
       tellMe('DTMode is now on')
     end
   end
+
+  IdleState()
 end
 
 function get_sets()

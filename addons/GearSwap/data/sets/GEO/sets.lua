@@ -1,6 +1,6 @@
 sets.geo_skill = {
   main = 'Solstice',
-  sub = 'Sors Shield',
+  sub = 'Genmei Shield',
   neck = 'Bagua Charm +1',
   head = 'Azimuth Hood +1',
   hands = 'Geo. Mitaines +2',
@@ -8,12 +8,17 @@ sets.geo_skill = {
   legs = 'Azimuth Tights',
   back = 'Lifestream Cape',
   feet = 'Medium\'s Sabots',
+  ear1 = 'Etiolation Earring',
+  ear2 = 'Genmei Earring',
   ring1 = 'Stikini Ring',
   ring2 = 'Stikini Ring'
 }
 
 sets.dt = {
-  feet = 'Azimuth Gaiters +1'
+  neck = 'Twilight Torque',
+  hands = 'Geomancy Mitaines +2',
+  body = 'Mallquis Saio +1',
+  ring1 = 'Defending Ring'
 };
 
 sets.idle = {}
@@ -29,12 +34,13 @@ sets.idle.luo_active = {
   back = 'Nantosuelta\'s Cape',
   ear1 = 'Etiolation Earring',
   ear2 = 'Ethereal Earring',
-  ring1 = 'Dark Ring',
-  ring2 = "Warden's Ring"
+  ring2 = 'Dark Ring',
+  ring1 = "Defending Ring"
 }
 
 sets.idle.no_luopan = set_combine(sets.idle.luo_active, {
   main = 'Malignance Pole',
+  sub = 'Giuoco Grip',
   head = 'Befouled Crown',
   body = 'Jhakri Robe +1',
   hands = 'Bagua Mitaines +1',
@@ -83,7 +89,9 @@ sets.cure.base = {
   hands = 'Vanya Cuffs',
   legs = 'Vanya Slops',
   feet = 'Vanya Clogs',
-  back = 'Solemnity Cape'
+  back = 'Solemnity Cape',
+  ear1 = 'Etiolation Earring',
+  ear2 = 'Genmei Earring',
 }
 
 sets.cure.mid = set_combine(sets.cure.base, {})
@@ -135,9 +143,9 @@ sets.nuke.base = {
   neck = 'Saevus Pendant +1',
   body = 'Amalric Doublet',
   hands = 'Jhakri Cuffs +2',
-  waist = "Penitent's Rope",
-  legs = 'Jhakri Slops +1',
-  feet = 'Jhakri Pigaches +2',
+  waist = "Acuity Belt +1",
+  legs = 'Merlinic Shalwar',
+  feet = 'Merlinic Crackows',
   back = 'Lifestream Cape',
   ear1 = 'Malignance Earring',
   ear2 = 'Friomisi Earring',
@@ -152,11 +160,12 @@ sets.nuke.free_nuke = set_combine(sets.nuke.base, {
 })
 
 sets.nuke.dark = set_combine(sets.nuke.base, {
-  head = 'Pixie Hairpin +1'
+  head = 'Pixie Hairpin +1',
+  ring1 = 'Archon Ring',
 })
 
 sets.nuke.aspir_drain = set_combine(sets.nuke.dark, {
-
+  feet = 'Merlinic Crackows'
 })
 
 sets.tp = {

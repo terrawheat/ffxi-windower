@@ -11,252 +11,161 @@ return {
         ["count"]=1, 
         ["id"]=219, 
         ["name"]="ceramic flowerpot", 
-        ["extdata"]="0040000000001200160000000000000000000000B43B0408"
+        ["extdata"]="0040000000001200160000000000000000000000043C0408"
     }, 
     [3]={
-        ["log_name"]="azimuth gaiters +1", 
-        ["count"]=1, 
-        ["id"]=27452, 
-        ["name"]="azimuth gaiters +1", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [4]={
-        ["log_name"]="pillager's poulaines +1", 
-        ["count"]=1, 
-        ["id"]=28249, 
-        ["name"]="pill. poulaines +1", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [5]={
-        ["log_name"]="creed sabatons", 
-        ["count"]=1, 
-        ["id"]=12094, 
-        ["name"]="creed sabatons", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [6]={
-        ["log_name"]="togakushi shuriken", 
-        ["count"]=1, 
-        ["id"]=21357, 
-        ["name"]="togakushi shuriken", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [7]={
-        ["log_name"]="iridal staff", 
-        ["count"]=1, 
-        ["id"]=18632, 
-        ["name"]="iridal staff", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [8]={
-        ["log_name"]="meghanada cuirie", 
-        ["count"]=1, 
-        ["id"]=25747, 
-        ["name"]="meghanada cuirie", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [9]={
-        ["log_name"]="raider's boomerang", 
-        ["count"]=1, 
-        ["id"]=19260, 
-        ["name"]="raider's bmrng.", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [10]={
-        ["log_name"]="meghanada gloves +1", 
-        ["count"]=1, 
-        ["id"]=25803, 
-        ["name"]="meg. gloves +1", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [11]={
-        ["log_name"]="ferine ocreae", 
-        ["count"]=1, 
-        ["id"]=12096, 
-        ["name"]="ferine ocreae", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [12]={
-        ["log_name"]="ajja rod", 
-        ["count"]=1, 
-        ["id"]=22028, 
-        ["name"]="ajja rod", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [13]={
-        ["log_name"]="vorpal sword", 
-        ["count"]=1, 
-        ["id"]=17742, 
-        ["name"]="vorpal sword", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [14]={
-        ["log_name"]="senkutanto", 
-        ["count"]=1, 
-        ["id"]=20993, 
-        ["name"]="senkutanto", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [15]={
-        ["log_name"]="mummu bonnet", 
-        ["count"]=1, 
-        ["id"]=25581, 
-        ["name"]="mummu bonnet", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [16]={
-        ["log_name"]="skulker's bonnet", 
-        ["count"]=1, 
-        ["id"]=26750, 
-        ["name"]="skulker's bonnet", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [17]={
-        ["log_name"]="meghanada chausses +1", 
-        ["count"]=1, 
-        ["id"]=25861, 
-        ["name"]="meg. chausses +1", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [18]={
-        ["log_name"]="skulker's vest", 
-        ["count"]=1, 
-        ["id"]=26908, 
-        ["name"]="skulker's vest", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [19]={
-        ["log_name"]="tartarus platemail", 
-        ["count"]=1, 
-        ["id"]=26944, 
-        ["name"]="tartarus platemail", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [20]={
-        ["log_name"]="kunai", 
-        ["count"]=1, 
-        ["id"]=16896, 
-        ["name"]="kunai", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [21]={
-        ["log_name"]="meghanada jambeaux +1", 
-        ["count"]=1, 
-        ["id"]=25928, 
-        ["name"]="meg. jam. +1", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [22]={
-        ["log_name"]="skulker's armlets", 
-        ["count"]=1, 
-        ["id"]=27062, 
-        ["name"]="skulker's armlets", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [23]={
-        ["log_name"]="skulker's poulaines", 
-        ["count"]=1, 
-        ["id"]=27421, 
-        ["name"]="skulk. poulaines", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [24]={
-        ["log_name"]="pillager's armlets +1", 
-        ["count"]=1, 
-        ["id"]=27969, 
-        ["name"]="pill. armlets +1", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [25]={
-        ["log_name"]="skulker's culottes", 
-        ["count"]=1, 
-        ["id"]=27247, 
-        ["name"]="skulker's culottes", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [26]={
-        ["log_name"]="naga somen", 
-        ["count"]=1, 
-        ["augments"]={
-            [1]="STR+10", 
-            [2]="Accuracy+15", 
-            [3]="\"Subtle Blow\"+7"
-        }, 
-        ["id"]=26793, 
-        ["name"]="naga somen", 
-        ["extdata"]="02233C00AAFBBF090C0EB606000000000000000000000000"
-    }, 
-    [27]={
-        ["log_name"]="pillager's bonnet +2", 
-        ["count"]=1, 
-        ["id"]=23045, 
-        ["name"]="pill. bonnet +2", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [28]={
-        ["log_name"]="mummu ring", 
-        ["count"]=1, 
-        ["id"]=26212, 
-        ["name"]="mummu ring", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [29]={
-        ["log_name"]="tokko knife", 
-        ["count"]=1, 
-        ["id"]=21561, 
-        ["name"]="tokko knife", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [30]={
-        ["log_name"]="zanmato", 
-        ["count"]=1, 
-        ["id"]=21965, 
-        ["name"]="zanmato", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [31]={
-        ["log_name"]="mummu gamashes +1", 
-        ["count"]=1, 
-        ["id"]=25943, 
-        ["name"]="mummu gamash. +1", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [32]={
-        ["log_name"]="tokko tachi", 
-        ["count"]=1, 
-        ["id"]=21971, 
-        ["name"]="tokko tachi", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [33]={
-        ["log_name"]="stikini ring", 
-        ["count"]=1, 
-        ["id"]=26183, 
-        ["name"]="stikini ring", 
-        ["extdata"]="000000000000000000000000003E38979DAD9C0000000000"
-    }, 
-    [34]={
-        ["log_name"]="trainee scissors", 
-        ["count"]=1, 
-        ["id"]=18763, 
-        ["name"]="trainee scissors", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [35]={
         ["log_name"]="sandung", 
         ["count"]=1, 
         ["id"]=20618, 
         ["name"]="sandung", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
-    [36]={
-        ["log_name"]="ash club", 
+    [4]={
+        ["log_name"]="masamune", 
         ["count"]=1, 
-        ["id"]=17024, 
-        ["name"]="ash club", 
+        ["augments"]={}, 
+        ["id"]=19406, 
+        ["name"]="masamune", 
+        ["extdata"]="024300000000000000004508000000000000000000000000"
+    }, 
+    [5]={
+        ["log_name"]="telchine pigaches", 
+        ["count"]=1, 
+        ["augments"]={
+            [2]="Pet: \"Regen\"+3", 
+            [3]="Pet: Damage taken -4%"
+        }, 
+        ["id"]=27405, 
+        ["name"]="telchine pigaches", 
+        ["extdata"]="020300006E10701800000000000000000000000000000000"
+    }, 
+    [6]={
+        ["log_name"]="giuoco grip", 
+        ["count"]=1, 
+        ["id"]=21410, 
+        ["name"]="giuoco grip", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
-    [37]={
+    [7]={
+        ["log_name"]="salire belt", 
+        ["count"]=1, 
+        ["id"]=28425, 
+        ["name"]="salire belt", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [8]={
+        ["log_name"]="sanctity necklace", 
+        ["count"]=1, 
+        ["id"]=26023, 
+        ["name"]="sanctity necklace", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [9]={
+        ["log_name"]="lacono necklace +1", 
+        ["count"]=1, 
+        ["id"]=28360, 
+        ["name"]="lacono neck. +1", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [10]={
+        ["log_name"]="ocachi gorget", 
+        ["count"]=1, 
+        ["id"]=28400, 
+        ["name"]="ocachi gorget", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [11]={
+        ["log_name"]="solemnity cape", 
+        ["count"]=1, 
+        ["id"]=26245, 
+        ["name"]="solemnity cape", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [12]={
+        ["log_name"]="mogratuity", 
+        ["count"]=1, 
+        ["id"]=19776, 
+        ["name"]="mogratuity", 
+        ["extdata"]="01070090603DAC2300000000000000000000000000000000"
+    }, 
+    [13]={
+        ["log_name"]="geomancy tunic +1", 
+        ["count"]=1, 
+        ["id"]=27849, 
+        ["name"]="geo. tunic +1", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [14]={
+        ["log_name"]="azimuth gaiters +1", 
+        ["count"]=1, 
+        ["id"]=27452, 
+        ["name"]="azimuth gaiters +1", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [15]={
+        ["log_name"]="vorpal sword", 
+        ["count"]=1, 
+        ["id"]=17742, 
+        ["name"]="vorpal sword", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [16]={
+        ["log_name"]="stoicheion medal", 
+        ["count"]=1, 
+        ["id"]=10957, 
+        ["name"]="stoicheion medal", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [17]={
+        ["log_name"]="assiduity pants +1", 
+        ["count"]=1, 
+        ["id"]=28135, 
+        ["name"]="assid. pants +1", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [18]={
+        ["log_name"]="skulker's bonnet", 
+        ["count"]=1, 
+        ["id"]=26750, 
+        ["name"]="skulker's bonnet", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [19]={
+        ["log_name"]="twilight torque", 
+        ["count"]=1, 
+        ["id"]=11625, 
+        ["name"]="twilight torque", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [20]={
+        ["log_name"]="ranger's necklace", 
+        ["count"]=1, 
+        ["id"]=13117, 
+        ["name"]="ranger's necklace", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [21]={
+        ["log_name"]="skulker's vest", 
+        ["count"]=1, 
+        ["id"]=26908, 
+        ["name"]="skulker's vest", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [22]={
+        ["log_name"]="tartarus platemail", 
+        ["count"]=1, 
+        ["id"]=26944, 
+        ["name"]="tartarus platemail", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [23]={
+        ["log_name"]="meghanada cuirie", 
+        ["count"]=1, 
+        ["id"]=25747, 
+        ["name"]="meghanada cuirie", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [24]={
         ["log_name"]="rawhide vest", 
         ["count"]=1, 
         ["augments"]={
@@ -268,80 +177,228 @@ return {
         ["name"]="rawhide vest", 
         ["extdata"]="02233F00AAFB0231B606B301000000000000000000000000"
     }, 
-    [38]={
-        ["log_name"]="bagua mitaines +1", 
+    [25]={
+        ["log_name"]="pursuer's doublet", 
         ["count"]=1, 
         ["augments"]={
-            [3]="Enhances \"Curative Recantation\" effect"
+            [1]="HP+50", 
+            [2]="Crit. hit rate+4%", 
+            [3]="\"Snapshot\"+6"
         }, 
-        ["id"]=27017, 
-        ["name"]="bagua mitaines +1", 
-        ["extdata"]="024300000000AA050000D494000000000000000000000000"
+        ["id"]=26951, 
+        ["name"]="pursuer's doublet", 
+        ["extdata"]="02233F00AAFB02317A03BB05000000000000000000000000"
+    }, 
+    [26]={
+        ["log_name"]="skulker's armlets", 
+        ["count"]=1, 
+        ["id"]=27062, 
+        ["name"]="skulker's armlets", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [27]={
+        ["log_name"]="windbuffet belt +1", 
+        ["count"]=1, 
+        ["id"]=28440, 
+        ["name"]="windbuffet belt +1", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [28]={
+        ["log_name"]="pillager's armlets +1", 
+        ["count"]=1, 
+        ["id"]=27969, 
+        ["name"]="pill. armlets +1", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [29]={
+        ["log_name"]="meghanada gloves +1", 
+        ["count"]=1, 
+        ["id"]=25803, 
+        ["name"]="meg. gloves +1", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [30]={
+        ["log_name"]="skulker's culottes", 
+        ["count"]=1, 
+        ["id"]=27247, 
+        ["name"]="skulker's culottes", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [31]={
+        ["log_name"]="chasseur's gants", 
+        ["count"]=1, 
+        ["id"]=27084, 
+        ["name"]="chasseur's gants", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [32]={
+        ["log_name"]="pursuer's cuffs", 
+        ["count"]=1, 
+        ["id"]=27101, 
+        ["name"]="pursuer's cuffs", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [33]={
+        ["log_name"]="befouled crown", 
+        ["count"]=1, 
+        ["id"]=26790, 
+        ["name"]="befouled crown", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [34]={
+        ["log_name"]="prosilio belt", 
+        ["count"]=1, 
+        ["id"]=10827, 
+        ["name"]="prosilio belt", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [35]={
+        ["log_name"]="bagua sandals +1", 
+        ["count"]=1, 
+        ["augments"]={
+            [3]="Enhances \"Radial Arcana\" effect"
+        }, 
+        ["id"]=27369, 
+        ["name"]="bagua sandals +1", 
+        ["extdata"]="024300000000A9050000D694000000000000000000000000"
+    }, 
+    [36]={
+        ["log_name"]="impulse belt", 
+        ["count"]=1, 
+        ["id"]=11735, 
+        ["name"]="impulse belt", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [37]={
+        ["log_name"]="sailfi belt +1", 
+        ["count"]=1, 
+        ["id"]=28428, 
+        ["name"]="sailfi belt +1", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [38]={
+        ["log_name"]="dunna", 
+        ["count"]=1, 
+        ["id"]=21372, 
+        ["name"]="dunna", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [39]={
-        ["log_name"]="lamia staff", 
+        ["log_name"]="geomancy mitaines +2", 
         ["count"]=1, 
-        ["id"]=22072, 
-        ["name"]="lamia staff", 
+        ["id"]=23195, 
+        ["name"]="geo. mitaines +2", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [40]={
-        ["log_name"]="rubicundity", 
+        ["log_name"]="blistering sallet +1", 
         ["count"]=1, 
-        ["augments"]={
-            [1]="Mag. Acc.+5", 
-            [2]="\"Mag.Atk.Bns.\"+2", 
-            [3]="\"Conserve MP\"+1"
-        }, 
-        ["id"]=21089, 
-        ["name"]="rubicundity", 
-        ["extdata"]="0203232085088D0000000000000000000000000000000000"
-    }, 
-    [41]={
-        ["log_name"]="meghanada visor +1", 
-        ["count"]=1, 
-        ["id"]=25662, 
-        ["name"]="meghanada visor +1", 
+        ["id"]=25602, 
+        ["name"]="blistering sallet +1", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
-    [42]={
-        ["log_name"]="mummu jacket", 
+    [41]={
+        ["log_name"]="merlinic shalwar", 
         ["count"]=1, 
-        ["id"]=25781, 
-        ["name"]="mummu jacket", 
+        ["augments"]={
+            [1]="\"Mag.Atk.Bns.\"+25", 
+            [2]="INT+6", 
+            [3]="Mag. Acc.+7"
+        }, 
+        ["id"]=25843, 
+        ["name"]="merlinic shalwar", 
+        ["extdata"]="020385C0042A233000000000000000000000000000000000"
+    }, 
+    [42]={
+        ["log_name"]="genmei earring", 
+        ["count"]=1, 
+        ["id"]=27539, 
+        ["name"]="genmei earring", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [43]={
-        ["log_name"]="pillager's vest +1", 
+        ["log_name"]="mallquis clogs +1", 
         ["count"]=1, 
-        ["id"]=27833, 
-        ["name"]="pillager's vest +1", 
+        ["id"]=25945, 
+        ["name"]="mallquis clogs +1", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [44]={
-        ["log_name"]="vanya slops", 
+        ["log_name"]="skulker's poulaines", 
         ["count"]=1, 
-        ["augments"]={
-            [1]="Healing magic skill +20", 
-            [2]="\"Cure\" spellcasting time -7%", 
-            [3]="Magic dmg. taken -3"
-        }, 
-        ["id"]=27288, 
-        ["name"]="vanya slops", 
-        ["extdata"]="02233D00AAFBF0137B06BD02000000000000000000000000"
+        ["id"]=27421, 
+        ["name"]="skulk. poulaines", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [45]={
-        ["log_name"]="pillager's culottes +1", 
+        ["log_name"]="augury cuisses", 
         ["count"]=1, 
-        ["id"]=28116, 
-        ["name"]="pill. culottes +1", 
+        ["id"]=28136, 
+        ["name"]="augury cuisses", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [46]={
-        ["log_name"]="mummu wrists", 
+        ["log_name"]="hashishin basmak +1", 
         ["count"]=1, 
-        ["id"]=25820, 
-        ["name"]="mummu wrists", 
+        ["id"]=27442, 
+        ["name"]="hashi. basmak +1", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [47]={
+        ["log_name"]="herculean boots", 
+        ["count"]=1, 
+        ["augments"]={
+            [1]="Attack+17", 
+            [2]="\"Triple Atk.\"+2", 
+            [3]="AGI+3", 
+            [4]="Accuracy+12"
+        }, 
+        ["id"]=27496, 
+        ["name"]="herculean boots", 
+        ["extdata"]="020319809008031217580000000000000000000000000000"
+    }, 
+    [48]={
+        ["log_name"]="pillager's poulaines +1", 
+        ["count"]=1, 
+        ["id"]=28249, 
+        ["name"]="pill. poulaines +1", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [49]={
+        ["log_name"]="bagua charm +1", 
+        ["count"]=1, 
+        ["augments"]={
+            [1]="Path: A"
+        }, 
+        ["id"]=25538, 
+        ["name"]="bagua charm +1", 
+        ["extdata"]="03830000A81BD002DB000000005F6BA72000000000000000"
+    }, 
+    [50]={
+        ["log_name"]="merlinic hood", 
+        ["count"]=1, 
+        ["augments"]={
+            [1]="Mag. Acc.+20 \"Mag.Atk.Bns.\"+20", 
+            [2]="CHR+10", 
+            [3]="Mag. Acc.+6", 
+            [4]="\"Mag.Atk.Bns.\"+8"
+        }, 
+        ["id"]=25643, 
+        ["name"]="merlinic hood", 
+        ["extdata"]="02034698064A232885380000000000000000000000000000"
+    }, 
+    [51]={
+        ["log_name"]="mallquis saio +1", 
+        ["count"]=1, 
+        ["id"]=25784, 
+        ["name"]="mallquis saio +1", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [52]={
+        ["log_name"]="kwahu kachina belt", 
+        ["count"]=1, 
+        ["id"]=26337, 
+        ["name"]="kwahu kachina belt", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }
 }

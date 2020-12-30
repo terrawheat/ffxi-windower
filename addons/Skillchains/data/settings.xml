@@ -2,17 +2,17 @@
 <settings>
     <global>
         <Show>
-            <burst>BST,GEO,WHM,DRG,NIN,COR,BLU,DRK,DNC,MNK,RDM,RNG,PUP,SCH,RUN,BLM,WAR,THF,SMN,BRD,PLD,SAM</burst>
+            <burst>BST,GEO,WHM,DRG,NIN,COR,SCH,DRK,DNC,SAM,RDM,RNG,PUP,BLU,RUN,BLM,WAR,THF,SMN,BRD,PLD,MNK</burst>
             <pet>BST,SMN</pet>
-            <props>BST,GEO,WHM,DRG,NIN,COR,BLU,DRK,DNC,MNK,RDM,RNG,PUP,SCH,RUN,BLM,WAR,THF,SMN,BRD,PLD,SAM</props>
-            <spell>SCH,BLU</spell>
-            <step>BST,GEO,WHM,DRG,NIN,COR,BLU,DRK,DNC,MNK,RDM,RNG,PUP,SCH,RUN,BLM,WAR,THF,SMN,BRD,PLD,SAM</step>
-            <timer>BST,GEO,WHM,DRG,NIN,COR,BLU,DRK,DNC,MNK,RDM,RNG,PUP,SCH,RUN,BLM,WAR,THF,SMN,BRD,PLD,SAM</timer>
-            <weapon>BST,GEO,WHM,DRG,NIN,COR,BLU,DRK,DNC,MNK,RDM,RNG,PUP,SCH,RUN,BLM,WAR,THF,SMN,BRD,PLD,SAM</weapon>
+            <props>BST,GEO,WHM,DRG,NIN,COR,SCH,DRK,DNC,SAM,RDM,RNG,PUP,BLU,RUN,BLM,WAR,THF,SMN,BRD,PLD,MNK</props>
+            <spell>SCH</spell>
+            <step>BST,GEO,WHM,DRG,NIN,COR,SCH,DRK,DNC,SAM,RDM,RNG,PUP,BLU,RUN,BLM,WAR,THF,SMN,BRD,PLD,MNK</step>
+            <timer>BST,GEO,WHM,DRG,NIN,COR,SCH,DRK,DNC,SAM,RDM,RNG,PUP,BLU,RUN,BLM,WAR,THF,SMN,BRD,PLD,MNK</timer>
+            <weapon>BST,GEO,WHM,DRG,NIN,COR,SCH,DRK,DNC,MNK,RDM,RNG,PUP,RUN,BLU,WAR,THF,SMN,BRD,PLD,BLM</weapon>
         </Show>
         <UpdateFrequency>0.2</UpdateFrequency>
         <aeonic>false</aeonic>
-        <color>false</color>
+        <color>true</color>
         <display>
             <bg>
                 <alpha>127</alpha>
@@ -30,8 +30,8 @@
             </flags>
             <padding>0</padding>
             <pos>
-                <x>0</x>
-                <y>0</y>
+                <x>1219</x>
+                <y>48</y>
             </pos>
             <text>
                 <alpha>255</alpha>
@@ -55,21 +55,14 @@
     </global>
     <tegamen>
         <Show>
-            <spell>SCH</spell>
+            <weapon>BST,GEO,WHM,DRG,NIN,COR,BLU,DRK,DNC,MNK,RDM,RNG,PUP,SCH,RUN,SAM,WAR,THF,SMN,BRD,PLD,BLM</weapon>
         </Show>
+        <color>false</color>
         <display>
             <pos>
-                <x>1219</x>
-                <y>48</y>
+                <x>1264</x>
+                <y>59</y>
             </pos>
         </display>
     </tegamen>
-    <terrana>
-        <display>
-            <pos>
-                <x>1256</x>
-                <y>69</y>
-            </pos>
-        </display>
-    </terrana>
 </settings>

@@ -1,59 +1,70 @@
 return {
     [1]={
-        ["log_name"]="moogle guard +1", 
-        ["count"]=1, 
-        ["id"]=10810, 
-        ["name"]="moogle guard +1", 
-        ["extdata"]="01010088A986CD1E00000000000000000000000000000000"
-    }, 
-    [2]={
-        ["log_name"]="chocobo shield +1", 
-        ["count"]=1, 
-        ["id"]=10812, 
-        ["name"]="choco. shield +1", 
-        ["extdata"]="01010088AF86CD1E00000000000000000000000000000000"
-    }, 
-    [3]={
-        ["log_name"]="decennial crown +1", 
-        ["count"]=1, 
-        ["id"]=10432, 
-        ["name"]="decennial crown +1", 
-        ["extdata"]="010100888886CD1E00000000000000000000000000000000"
-    }, 
-    [4]={
-        ["log_name"]="behemoth masque +1", 
-        ["count"]=1, 
-        ["id"]=26799, 
-        ["name"]="behe. masque +1", 
-        ["extdata"]="010100888E4ECD1E00000000000000000000000000000000"
-    }, 
-    [5]={
         ["log_name"]="decennial coat +1", 
         ["count"]=1, 
         ["id"]=10253, 
         ["name"]="decennial coat +1", 
-        ["extdata"]="010100889186CD1E00000000000000000000000000000000"
+        ["extdata"]="01010088472CA32300000000000000000000000000000000"
     }, 
-    [6]={
-        ["log_name"]="gil nabber shirt", 
-        ["count"]=1, 
-        ["id"]=26524, 
-        ["name"]="gil nabber shirt", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [7]={
+    [2]={
         ["log_name"]="decennial tights +1", 
         ["count"]=1, 
         ["id"]=10595, 
         ["name"]="decennial tights +1", 
-        ["extdata"]="01010088594ECD1E00000000000000000000000000000000"
+        ["extdata"]="010100880AF4A22300000000000000000000000000000000"
+    }, 
+    [3]={
+        ["log_name"]="sors shield", 
+        ["count"]=1, 
+        ["id"]=28658, 
+        ["name"]="sors shield", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [4]={
+        ["log_name"]="genmei shield", 
+        ["count"]=1, 
+        ["id"]=27645, 
+        ["name"]="genmei shield", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [5]={
+        ["log_name"]="merlinic crackows", 
+        ["count"]=1, 
+        ["augments"]={
+            [1]="Mag. Acc.+20 \"Mag.Atk.Bns.\"+20", 
+            [2]="Magic burst dmg.+3%", 
+            [3]="MND+6", 
+            [4]="Mag. Acc.+15"
+        }, 
+        ["id"]=27497, 
+        ["name"]="merlinic crackows", 
+        ["extdata"]="020346984E11052A23700000000000000000000000000000"
+    }, 
+    [6]={
+        ["log_name"]="geomancy sandals +2", 
+        ["count"]=1, 
+        ["id"]=23329, 
+        ["name"]="geo. sandals +2", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [7]={
+        ["log_name"]="vanya cuffs", 
+        ["count"]=1, 
+        ["augments"]={
+            [1]="Healing magic skill +20", 
+            [2]="\"Cure\" spellcasting time -7%", 
+            [3]="Magic dmg. taken -3"
+        }, 
+        ["id"]=27103, 
+        ["name"]="vanya cuffs", 
+        ["extdata"]="02233D00AAFBF0137B06BD02000000000000000000000000"
     }, 
     [8]={
-        ["log_name"]="shadow lord shirt", 
+        ["log_name"]="stikini ring", 
         ["count"]=1, 
-        ["id"]=26517, 
-        ["name"]="shadow lord shirt", 
-        ["extdata"]="010100C8537BB61F00000000000000000000000000000000"
+        ["id"]=26183, 
+        ["name"]="stikini ring", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [9]={
         ["log_name"]="hoe", 
@@ -70,24 +81,113 @@ return {
         ["extdata"]="01320080638B2C2300000000000000000000000000000000"
     }, 
     [11]={
-        ["log_name"]="savagelands pole", 
+        ["log_name"]="telchine braconi", 
         ["count"]=1, 
-        ["id"]=22068, 
-        ["name"]="savage. pole", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
+        ["augments"]={
+            [2]="Pet: \"Regen\"+3", 
+            [3]="Pet: Damage taken -3%"
+        }, 
+        ["id"]=27235, 
+        ["name"]="telchine braconi", 
+        ["extdata"]="020300006E10701000000000000000000000000000000000"
     }, 
     [12]={
-        ["log_name"]="troll gun", 
+        ["log_name"]="azimuth tights", 
         ["count"]=1, 
-        ["id"]=21272, 
-        ["name"]="troll gun", 
+        ["id"]=27277, 
+        ["name"]="azimuth tights", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [13]={
-        ["log_name"]="behemoth suit +1", 
+        ["log_name"]="vanya slops", 
         ["count"]=1, 
-        ["id"]=26955, 
-        ["name"]="behemoth suit +1", 
-        ["extdata"]="010100883481E21E00000000000000000000000000000000"
+        ["augments"]={
+            [1]="Healing magic skill +20", 
+            [2]="\"Cure\" spellcasting time -7%", 
+            [3]="Magic dmg. taken -3"
+        }, 
+        ["id"]=27288, 
+        ["name"]="vanya slops", 
+        ["extdata"]="02233D00AAFBF0137B06BD02000000000000000000000000"
+    }, 
+    [14]={
+        ["log_name"]="telchine chasuble", 
+        ["count"]=1, 
+        ["augments"]={
+            [1]="DEF+18", 
+            [2]="Pet: \"Regen\"+2", 
+            [3]="Pet: Damage taken -4%"
+        }, 
+        ["id"]=26894, 
+        ["name"]="telchine chas.", 
+        ["extdata"]="020321886E08701800000000000000000000000000000000"
+    }, 
+    [15]={
+        ["log_name"]="lifestream cape", 
+        ["count"]=1, 
+        ["augments"]={
+            [1]="Geomancy Skill +10", 
+            [2]="Indi. eff. dur. +17", 
+            [3]="Pet: Damage taken -5%"
+        }, 
+        ["id"]=28637, 
+        ["name"]="lifestream cape", 
+        ["extdata"]="02032C49E284702000000000000000000000000000000000"
+    }, 
+    [16]={
+        ["log_name"]="gada", 
+        ["count"]=1, 
+        ["augments"]={
+            [1]="\"Fast Cast\"+1", 
+            [2]="Mag. Acc.+16"
+        }, 
+        ["id"]=21072, 
+        ["name"]="gada", 
+        ["extdata"]="02038C002378000000000000000000000000000000000000"
+    }, 
+    [17]={
+        ["log_name"]="bagua tunic +1", 
+        ["count"]=1, 
+        ["augments"]={
+            [3]="Enhances \"Bolster\" effect"
+        }, 
+        ["id"]=26841, 
+        ["name"]="bagua tunic +1", 
+        ["extdata"]="024300000000142D0000D394000000000000000000000000"
+    }, 
+    [18]={
+        ["log_name"]="stikini ring", 
+        ["count"]=1, 
+        ["id"]=26183, 
+        ["name"]="stikini ring", 
+        ["extdata"]="000000000000000000000000003E38979DAD9C0000000000"
+    }, 
+    [19]={
+        ["log_name"]="handler's earring", 
+        ["count"]=1, 
+        ["id"]=28490, 
+        ["name"]="handler's earring", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [20]={
+        ["log_name"]="azimuth coat", 
+        ["count"]=1, 
+        ["id"]=26938, 
+        ["name"]="azimuth coat", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [21]={
+        ["log_name"]="plate of sole sushi", 
+        ["count"]=1, 
+        ["id"]=5149, 
+        ["name"]="sole sushi", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [22]={
+        ["log_name"]="dish of spaghetti carbonara", 
+        ["count"]=1, 
+        ["id"]=5190, 
+        ["name"]="carbonara", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
     }
 }

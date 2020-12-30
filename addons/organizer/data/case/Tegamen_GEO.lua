@@ -7,10 +7,10 @@ return {
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [2]={
-        ["log_name"]="forbidden key", 
-        ["count"]=52, 
-        ["id"]=2490, 
-        ["name"]="forbidden key", 
+        ["log_name"]="orichalcum bullet pouch", 
+        ["count"]=2, 
+        ["id"]=5914, 
+        ["name"]="o. bull. pouch", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [3]={
@@ -29,72 +29,72 @@ return {
     }, 
     [5]={
         ["log_name"]="maringna", 
-        ["count"]=2, 
+        ["count"]=1, 
         ["id"]=5888, 
         ["name"]="maringna", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [6]={
-        ["log_name"]="orichalcum bullet pouch", 
-        ["count"]=3, 
-        ["id"]=5914, 
-        ["name"]="o. bull. pouch", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [7]={
-        ["log_name"]="living key", 
-        ["count"]=12, 
-        ["id"]=1023, 
-        ["name"]="living key", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [8]={
-        ["log_name"]="living key", 
-        ["count"]=9, 
-        ["id"]=1023, 
-        ["name"]="living key", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [9]={
-        ["log_name"]="tavnazian taco", 
-        ["count"]=2, 
-        ["id"]=5174, 
-        ["name"]="tavnazian taco", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [10]={
         ["log_name"]="titanium bullet pouch", 
         ["count"]=12, 
         ["id"]=6209, 
         ["name"]="ti. bull. pouch", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
-    [11]={
+    [7]={
+        ["log_name"]="hi-reraiser", 
+        ["count"]=1, 
+        ["id"]=4173, 
+        ["name"]="hi-reraiser", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [8]={
+        ["log_name"]="tavnazian taco", 
+        ["count"]=1, 
+        ["id"]=5174, 
+        ["name"]="tavnazian taco", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [9]={
+        ["log_name"]="piece of ebony lumber", 
+        ["count"]=12, 
+        ["id"]=719, 
+        ["name"]="ebony lumber", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [10]={
         ["log_name"]="kaginawa", 
-        ["count"]=83, 
+        ["count"]=47, 
         ["id"]=1185, 
         ["name"]="kaginawa", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
-    [12]={
+    [11]={
         ["log_name"]="sanjaku-tenugui", 
-        ["count"]=99, 
+        ["count"]=23, 
         ["id"]=2553, 
         ["name"]="sanjaku-tenugui", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
-    [13]={
+    [12]={
         ["log_name"]="san d'orian ring", 
         ["count"]=1, 
         ["id"]=13495, 
         ["name"]="san d'orian ring", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
+    [13]={
+        ["log_name"]="shinobi-tabi", 
+        ["count"]=83, 
+        ["id"]=1194, 
+        ["name"]="shinobi-tabi", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
     [14]={
-        ["log_name"]="titanium bullet pouch", 
-        ["count"]=2, 
-        ["id"]=6209, 
-        ["name"]="ti. bull. pouch", 
+        ["log_name"]="piece of ebony lumber", 
+        ["count"]=12, 
+        ["id"]=719, 
+        ["name"]="ebony lumber", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [15]={
@@ -105,17 +105,17 @@ return {
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [16]={
-        ["log_name"]="kitron macaron", 
-        ["count"]=6, 
-        ["id"]=5781, 
-        ["name"]="kitron macaron", 
+        ["log_name"]="ryuno", 
+        ["count"]=56, 
+        ["id"]=2644, 
+        ["name"]="ryuno", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [17]={
-        ["log_name"]="remedy", 
-        ["count"]=12, 
-        ["id"]=4155, 
-        ["name"]="remedy", 
+        ["log_name"]="chonofuda", 
+        ["count"]=97, 
+        ["id"]=2973, 
+        ["name"]="chonofuda", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [18]={
@@ -126,10 +126,10 @@ return {
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [19]={
-        ["log_name"]="titanium bullet", 
-        ["count"]=1, 
-        ["id"]=21335, 
-        ["name"]="titanium bullet", 
+        ["log_name"]="flask of echo drops", 
+        ["count"]=3, 
+        ["id"]=4151, 
+        ["name"]="echo drops", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [20]={
@@ -140,10 +140,10 @@ return {
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [21]={
-        ["log_name"]="orichalcum bullet", 
-        ["count"]=98, 
-        ["id"]=19802, 
-        ["name"]="orichalc. bullet", 
+        ["log_name"]="remedy", 
+        ["count"]=11, 
+        ["id"]=4155, 
+        ["name"]="remedy", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [22]={
@@ -189,38 +189,59 @@ return {
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [28]={
+        ["log_name"]="piece of ebony lumber", 
+        ["count"]=12, 
+        ["id"]=719, 
+        ["name"]="ebony lumber", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [29]={
         ["log_name"]="cehuetzi snow cone", 
-        ["count"]=5, 
+        ["count"]=3, 
         ["id"]=6223, 
         ["name"]="c. snow cone", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
-    [29]={
+    [30]={
+        ["log_name"]="plate of sole sushi", 
+        ["count"]=3, 
+        ["id"]=5149, 
+        ["name"]="sole sushi", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [31]={
         ["log_name"]="shihei", 
-        ["count"]=59, 
+        ["count"]=17, 
         ["id"]=1179, 
         ["name"]="shihei", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
-    [30]={
-        ["log_name"]="shinobi-tabi", 
-        ["count"]=85, 
-        ["id"]=1194, 
-        ["name"]="shinobi-tabi", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [31]={
-        ["log_name"]="chonofuda", 
-        ["count"]=97, 
-        ["id"]=2973, 
-        ["name"]="chonofuda", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
     [32]={
-        ["log_name"]="ryuno", 
-        ["count"]=81, 
-        ["id"]=2644, 
-        ["name"]="ryuno", 
+        ["log_name"]="phase displacer", 
+        ["count"]=25, 
+        ["id"]=3853, 
+        ["name"]="phase displacer", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [33]={
+        ["log_name"]="forbidden key", 
+        ["count"]=43, 
+        ["id"]=2490, 
+        ["name"]="forbidden key", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [34]={
+        ["log_name"]="square of wyrdweave", 
+        ["count"]=1, 
+        ["id"]=3551, 
+        ["name"]="wyrdweave", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [35]={
+        ["log_name"]="scholar stone", 
+        ["count"]=4, 
+        ["id"]=3924, 
+        ["name"]="scholar stone", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }
 }

@@ -1,20 +1,1166 @@
-Organizer loaded at Sat Nov 21 23:00:45 2020
-2020-11-21 23:00:45| Organizer [VERBOSE] Adding inventory to the pull list
-2020-11-21 23:00:45| Organizer [VERBOSE] Adding locker to the pull list
-2020-11-21 23:00:45| Organizer [VERBOSE] Adding sack to the pull list
-2020-11-21 23:00:45| Organizer [VERBOSE] Adding case to the pull list
-2020-11-21 23:00:45| Organizer [VERBOSE] Adding satchel to the pull list
-2020-11-21 23:00:45| Organizer [VERBOSE] Adding wardrobe4 to the pull list
-2020-11-21 23:00:45| Organizer [VERBOSE] Adding storage to the pull list
-2020-11-21 23:00:45| Organizer [VERBOSE] Adding wardrobe to the pull list
-2020-11-21 23:00:45| Organizer [VERBOSE] Adding safe to the pull list
-2020-11-21 23:00:45| Organizer [VERBOSE] Adding safe2 to the pull list
-2020-11-21 23:00:45| Organizer [VERBOSE] Adding wardrobe2 to the pull list
-2020-11-21 23:00:45| Organizer [VERBOSE] Adding wardrobe3 to the pull list
-2020-11-21 23:00:45| Organizer [VERBOSE] Adding safe to the push list
-2020-11-21 23:00:45| Organizer [VERBOSE] Adding storage to the push list
-2020-11-21 23:00:45| Organizer [VERBOSE] Adding locker to the push list
-2020-11-21 23:00:45| Organizer [VERBOSE] Adding sack to the push list
-2020-11-21 23:00:45| Organizer [VERBOSE] Adding safe2 to the push list
-2020-11-21 23:00:45| Organizer [VERBOSE] Seals set to retain
-2020-11-21 23:00:46| Organizer [VERBOSE] Non-equipment items set to retain
+Organizer loaded at Wed Dec 30 11:16:22 2020
+2020-12-30 11:16:22| Organizer [VERBOSE] Adding inventory to the pull list
+2020-12-30 11:16:22| Organizer [VERBOSE] Adding locker to the pull list
+2020-12-30 11:16:22| Organizer [VERBOSE] Adding sack to the pull list
+2020-12-30 11:16:22| Organizer [VERBOSE] Adding case to the pull list
+2020-12-30 11:16:22| Organizer [VERBOSE] Adding satchel to the pull list
+2020-12-30 11:16:22| Organizer [VERBOSE] Adding wardrobe4 to the pull list
+2020-12-30 11:16:22| Organizer [VERBOSE] Adding storage to the pull list
+2020-12-30 11:16:22| Organizer [VERBOSE] Adding wardrobe to the pull list
+2020-12-30 11:16:22| Organizer [VERBOSE] Adding safe to the pull list
+2020-12-30 11:16:22| Organizer [VERBOSE] Adding safe2 to the pull list
+2020-12-30 11:16:22| Organizer [VERBOSE] Adding wardrobe2 to the pull list
+2020-12-30 11:16:22| Organizer [VERBOSE] Adding wardrobe3 to the pull list
+2020-12-30 11:16:22| Organizer [VERBOSE] Adding safe to the push list
+2020-12-30 11:16:22| Organizer [VERBOSE] Adding storage to the push list
+2020-12-30 11:16:22| Organizer [VERBOSE] Adding locker to the push list
+2020-12-30 11:16:22| Organizer [VERBOSE] Adding sack to the push list
+2020-12-30 11:16:22| Organizer [VERBOSE] Adding safe2 to the push list
+2020-12-30 11:16:22| Organizer [VERBOSE] Seals set to retain
+2020-12-30 11:16:23| Organizer [VERBOSE] Non-equipment items set to retain
+2020-12-30 14:50:52| Organizer [MSG] Starting...
+2020-12-30 14:50:52| Organizer [VERBOSE] Getting!
+2020-12-30 14:50:52| Organizer [VERBOSE] Moving item! (Pill. Culottes +1) from Safe 2 52 to Inventory 36)
+2020-12-30 14:50:52| Organizer [WARN] Cannot move more than 80 items into that inventory (4)
+2020-12-30 14:50:52| Organizer [WARN] Unable to move item.
+2020-12-30 14:50:52| Organizer [VERBOSE] Moving item! (Odr Earring) from Safe 2 51 to Inventory 37)
+2020-12-30 14:50:52| Organizer [WARN] Cannot move more than 80 items into that inventory (4)
+2020-12-30 14:50:52| Organizer [WARN] Unable to move item.
+2020-12-30 14:50:52| Organizer [VERBOSE] Moving item! (Shijo) from Safe 2 50 to Inventory 38)
+2020-12-30 14:50:52| Organizer [WARN] Cannot move more than 80 items into that inventory (4)
+2020-12-30 14:50:52| Organizer [WARN] Unable to move item.
+2020-12-30 14:50:52| Organizer [WARN] Masamune not found.
+2020-12-30 14:50:52| Organizer [WARN] Twilight Torque not found.
+2020-12-30 14:50:52| Organizer [WARN] Tartarus Platemail not found.
+2020-12-30 14:50:52| Organizer [WARN] Genmei Earring not found.
+2020-12-30 14:50:52| Organizer [WARN] Lustreless Wing not found.
+2020-12-30 14:50:52| Organizer [VERBOSE] Moving item! (Ichigohitofuri) from Wardrobe 42 to Inventory 39)
+2020-12-30 14:50:52| Organizer [VERBOSE] Moving item! (Ichigohitofuri) from Inventory 40 to Sack 60)
+2020-12-30 14:50:52| Organizer [WARN] Wakido Domaru +2 not found.
+2020-12-30 14:50:52| Organizer [WARN] Sakonji Domaru +1 not found.
+2020-12-30 14:50:52| Organizer [WARN] Macrocosmic Orb not found.
+2020-12-30 14:50:52| Organizer [WARN] Flam. Gambieras +1 not found.
+2020-12-30 14:50:52| Organizer [WARN] Cirein. Lantern not found.
+2020-12-30 14:50:52| Organizer [WARN] Heavy Metal not found.
+2020-12-30 14:50:52| Organizer [WARN] Heavy Metal not found.
+2020-12-30 14:50:52| Organizer [WARN] Heavy Metal not found.
+2020-12-30 14:50:52| Organizer [WARN] Lustreless Wing not found.
+2020-12-30 14:50:52| Organizer [WARN] Tavnazian Taco not found.
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Got 2 item(s), and failed getting 3 item(s)
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (S. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Faithful's Legs II) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Centurio's Armor) because it is in your bazaar.
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Kindred's Seal) because it is set to be retained (seal)
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Grain Seeds) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (P. SAM Card) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Centurio's Armor) because it is in your bazaar.
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (S. Astral Detritus) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Arthro's Shell) because it is in your bazaar.
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (H. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 14:50:52| Organizer [VERBOSE] Moving item! (Emperor Band) from Inventory 39 to Safe 2 49)
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Silver Voucher) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Abdhaljs Seal) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Toolbag (Shihe)) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Linkpearl) because it is an equipped linkshell.
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Worn Sack (SS+1)) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Moving item! (Pill. Culottes +1) from Inventory 38 to Safe 2 50)
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Super Reraiser) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Moving item! (Odr Earring) from Inventory 37 to Safe 2 51)
+2020-12-30 14:50:52| Organizer [VERBOSE] Moving item! (Shijo) from Inventory 36 to Safe 2 52)
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Buggane Horn) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Toolbag (Tsura)) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (100 Byne Bill) because it is in your bazaar.
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Linkpearl) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Tiger Hide) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Lynx Hide) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Zinc Ore) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Kindred's Crest) because it is set to be retained (seal)
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Carbonara) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Sunflower Seeds) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Copper Voucher) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Earth Crystal) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Handshard: PUP) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Arthro's Shell) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Remainder: 19 Current: 35
+2020-12-30 14:50:52| Organizer [VERBOSE] Getting!
+2020-12-30 14:50:52| Organizer [VERBOSE] Moving item! (Pill. Culottes +1) from Safe 2 53 to Inventory 35)
+2020-12-30 14:50:52| Organizer [WARN] Cannot move more than 80 items into that inventory (4)
+2020-12-30 14:50:52| Organizer [WARN] Unable to move item.
+2020-12-30 14:50:52| Organizer [VERBOSE] Moving item! (Odr Earring) from Safe 2 52 to Inventory 36)
+2020-12-30 14:50:52| Organizer [WARN] Cannot move more than 80 items into that inventory (4)
+2020-12-30 14:50:52| Organizer [WARN] Unable to move item.
+2020-12-30 14:50:52| Organizer [VERBOSE] Moving item! (Shijo) from Safe 2 51 to Inventory 37)
+2020-12-30 14:50:52| Organizer [WARN] Cannot move more than 80 items into that inventory (4)
+2020-12-30 14:50:52| Organizer [WARN] Unable to move item.
+2020-12-30 14:50:52| Organizer [WARN] Masamune not found.
+2020-12-30 14:50:52| Organizer [WARN] Twilight Torque not found.
+2020-12-30 14:50:52| Organizer [WARN] Tartarus Platemail not found.
+2020-12-30 14:50:52| Organizer [WARN] Genmei Earring not found.
+2020-12-30 14:50:52| Organizer [WARN] Lustreless Wing not found.
+2020-12-30 14:50:52| Organizer [WARN] Wakido Domaru +2 not found.
+2020-12-30 14:50:52| Organizer [WARN] Sakonji Domaru +1 not found.
+2020-12-30 14:50:52| Organizer [WARN] Macrocosmic Orb not found.
+2020-12-30 14:50:52| Organizer [WARN] Flam. Gambieras +1 not found.
+2020-12-30 14:50:52| Organizer [WARN] Cirein. Lantern not found.
+2020-12-30 14:50:52| Organizer [WARN] Heavy Metal not found.
+2020-12-30 14:50:52| Organizer [WARN] Heavy Metal not found.
+2020-12-30 14:50:52| Organizer [WARN] Heavy Metal not found.
+2020-12-30 14:50:52| Organizer [WARN] Lustreless Wing not found.
+2020-12-30 14:50:52| Organizer [WARN] Tavnazian Taco not found.
+2020-12-30 14:50:52| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 14:50:52| Organizer [VERBOSE] Got 1 item(s), and failed getting 3 item(s)
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (S. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Faithful's Legs II) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Centurio's Armor) because it is in your bazaar.
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Kindred's Seal) because it is set to be retained (seal)
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Grain Seeds) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (P. SAM Card) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Centurio's Armor) because it is in your bazaar.
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (S. Astral Detritus) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Arthro's Shell) because it is in your bazaar.
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (H. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 14:50:53| Organizer [VERBOSE] Moving item! (Pill. Culottes +1) from Inventory 38 to Safe 2 50)
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Silver Voucher) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Abdhaljs Seal) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Toolbag (Shihe)) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Linkpearl) because it is an equipped linkshell.
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Worn Sack (SS+1)) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Moving item! (Odr Earring) from Inventory 37 to Safe 2 51)
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Super Reraiser) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Moving item! (Shijo) from Inventory 36 to Safe 2 52)
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Buggane Horn) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Toolbag (Tsura)) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (100 Byne Bill) because it is in your bazaar.
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Linkpearl) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Tiger Hide) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Lynx Hide) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Zinc Ore) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Kindred's Crest) because it is set to be retained (seal)
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Carbonara) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Sunflower Seeds) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Copper Voucher) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Earth Crystal) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Handshard: PUP) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Arthro's Shell) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (S. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Faithful's Legs II) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Centurio's Armor) because it is in your bazaar.
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Kindred's Seal) because it is set to be retained (seal)
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Grain Seeds) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (P. SAM Card) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Centurio's Armor) because it is in your bazaar.
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (S. Astral Detritus) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Arthro's Shell) because it is in your bazaar.
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (H. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Silver Voucher) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Abdhaljs Seal) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Toolbag (Shihe)) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Linkpearl) because it is an equipped linkshell.
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Worn Sack (SS+1)) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Super Reraiser) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Buggane Horn) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Toolbag (Tsura)) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (100 Byne Bill) because it is in your bazaar.
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Linkpearl) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Tiger Hide) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Lynx Hide) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Zinc Ore) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Kindred's Crest) because it is set to be retained (seal)
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Carbonara) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Sunflower Seeds) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Copper Voucher) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Earth Crystal) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Handshard: PUP) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [VERBOSE] Skipping item: (Arthro's Shell) because non-equipment is set be retained
+2020-12-30 14:50:53| Organizer [MSG] Done! - 380 items matched and 19 items missing!
+2020-12-30 14:50:53| Organizer [VERBOSE] Item Missing: pill. culottes +1 
+2020-12-30 14:50:53| Organizer [VERBOSE] Item Missing: odr earring 
+2020-12-30 14:50:53| Organizer [VERBOSE] Item Missing: shijo {"DEX+15", ""Dual Wield"+5", ""Triple Atk."+2"}
+2020-12-30 14:50:53| Organizer [VERBOSE] Item Missing: masamune {}
+2020-12-30 14:50:53| Organizer [VERBOSE] Item Missing: twilight torque 
+2020-12-30 14:50:53| Organizer [VERBOSE] Item Missing: tartarus platemail 
+2020-12-30 14:50:53| Organizer [VERBOSE] Item Missing: genmei earring 
+2020-12-30 14:50:53| Organizer [VERBOSE] Item Missing: lustreless wing 
+2020-12-30 14:50:53| Organizer [VERBOSE] Item Missing: wakido domaru +2 
+2020-12-30 14:50:53| Organizer [VERBOSE] Item Missing: sakonji domaru +1 {"Enhances "Overwhelm" effect"}
+2020-12-30 14:50:53| Organizer [VERBOSE] Item Missing: macrocosmic orb 
+2020-12-30 14:50:53| Organizer [VERBOSE] Item Missing: flam. gambieras +1 
+2020-12-30 14:50:53| Organizer [VERBOSE] Item Missing: cirein. lantern 
+2020-12-30 14:50:53| Organizer [VERBOSE] Item Missing: heavy metal 
+2020-12-30 14:50:53| Organizer [VERBOSE] Item Missing: heavy metal 
+2020-12-30 14:50:53| Organizer [VERBOSE] Item Missing: heavy metal 
+2020-12-30 14:50:53| Organizer [VERBOSE] Item Missing: lustreless wing 
+2020-12-30 14:50:53| Organizer [VERBOSE] Item Missing: tavnazian taco 
+2020-12-30 14:50:53| Organizer [VERBOSE] Item Missing: shihei 
+2020-12-30 14:50:55| Organizer [MSG] Starting...
+2020-12-30 14:50:55| Organizer [VERBOSE] Getting!
+2020-12-30 14:50:55| Organizer [WARN] Wakido Kabuto +1 not found.
+2020-12-30 14:50:55| Organizer [WARN] Ichigohitofuri not found.
+2020-12-30 14:50:55| Organizer [WARN] Blistering Sallet +1 not found.
+2020-12-30 14:50:55| Organizer [VERBOSE] Moving item! (Emperor Band) from Safe 2 53 to Inventory 35)
+2020-12-30 14:50:55| Organizer [VERBOSE] Moving item! (Emperor Band) from Inventory 36 to Wardrobe 2 66)
+2020-12-30 14:50:55| Organizer [VERBOSE] Moving item! (Pill. Culottes +1) from Safe 2 52 to Inventory 35)
+2020-12-30 14:50:55| Organizer [WARN] Cannot move more than 80 items into that inventory (4)
+2020-12-30 14:50:55| Organizer [WARN] Unable to move item.
+2020-12-30 14:50:55| Organizer [VERBOSE] Moving item! (Odr Earring) from Safe 2 51 to Inventory 36)
+2020-12-30 14:50:55| Organizer [WARN] Cannot move more than 80 items into that inventory (4)
+2020-12-30 14:50:55| Organizer [WARN] Unable to move item.
+2020-12-30 14:50:55| Organizer [VERBOSE] Moving item! (Shijo) from Safe 2 50 to Inventory 37)
+2020-12-30 14:50:55| Organizer [WARN] Cannot move more than 80 items into that inventory (4)
+2020-12-30 14:50:55| Organizer [WARN] Unable to move item.
+2020-12-30 14:50:55| Organizer [WARN] Masamune not found.
+2020-12-30 14:50:55| Organizer [WARN] Twilight Torque not found.
+2020-12-30 14:50:55| Organizer [WARN] Tartarus Platemail not found.
+2020-12-30 14:50:55| Organizer [WARN] Genmei Earring not found.
+2020-12-30 14:50:55| Organizer [WARN] Lustreless Wing not found.
+2020-12-30 14:50:55| Organizer [VERBOSE] Moving item! (Wakido Domaru +2) from Wardrobe 41 to Inventory 38)
+2020-12-30 14:50:55| Organizer [VERBOSE] Moving item! (Wakido Domaru +2) from Inventory 39 to Sack 61)
+2020-12-30 14:50:55| Organizer [WARN] Sakonji Domaru +1 not found.
+2020-12-30 14:50:55| Organizer [WARN] Macrocosmic Orb not found.
+2020-12-30 14:50:55| Organizer [WARN] Worn Sack (SO+1) not found.
+2020-12-30 14:50:55| Organizer [WARN] Coin of Ruin not found.
+2020-12-30 14:50:55| Organizer [WARN] Arthro's Shell not found.
+2020-12-30 14:50:55| Organizer [WARN] Coin of Decay not found.
+2020-12-30 14:50:55| Organizer [WARN] Arthro's Shell not found.
+2020-12-30 14:50:55| Organizer [WARN] Cirein. Lantern not found.
+2020-12-30 14:50:55| Organizer [WARN] Heavy Metal not found.
+2020-12-30 14:50:55| Organizer [WARN] Heavy Metal not found.
+2020-12-30 14:50:55| Organizer [WARN] Heavy Metal not found.
+2020-12-30 14:50:55| Organizer [WARN] Lustreless Wing not found.
+2020-12-30 14:50:55| Organizer [WARN] Tavnazian Taco not found.
+2020-12-30 14:50:55| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 14:50:55| Organizer [VERBOSE] Got 3 item(s), and failed getting 3 item(s)
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (S. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Faithful's Legs II) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Kindred's Seal) because it is set to be retained (seal)
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Grain Seeds) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (P. SAM Card) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (S. Astral Detritus) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Moving item! (Pill. Culottes +1) from Inventory 38 to Safe 2 49)
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Silver Voucher) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Abdhaljs Seal) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Toolbag (Shihe)) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Worn Sack (SS+1)) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Moving item! (Odr Earring) from Inventory 37 to Safe 2 50)
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Super Reraiser) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Moving item! (Shijo) from Inventory 36 to Safe 2 51)
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Buggane Horn) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Toolbag (Tsura)) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Tiger Hide) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Lynx Hide) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Zinc Ore) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Carbonara) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Sunflower Seeds) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Earth Crystal) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Handshard: PUP) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Remainder: 25 Current: 35
+2020-12-30 14:50:56| Organizer [VERBOSE] Getting!
+2020-12-30 14:50:56| Organizer [WARN] Wakido Kabuto +1 not found.
+2020-12-30 14:50:56| Organizer [WARN] Ichigohitofuri not found.
+2020-12-30 14:50:56| Organizer [WARN] Blistering Sallet +1 not found.
+2020-12-30 14:50:56| Organizer [VERBOSE] Moving item! (Pill. Culottes +1) from Safe 2 52 to Inventory 35)
+2020-12-30 14:50:56| Organizer [WARN] Cannot move more than 80 items into that inventory (4)
+2020-12-30 14:50:56| Organizer [WARN] Unable to move item.
+2020-12-30 14:50:56| Organizer [VERBOSE] Moving item! (Odr Earring) from Safe 2 51 to Inventory 36)
+2020-12-30 14:50:56| Organizer [WARN] Cannot move more than 80 items into that inventory (4)
+2020-12-30 14:50:56| Organizer [WARN] Unable to move item.
+2020-12-30 14:50:56| Organizer [VERBOSE] Moving item! (Shijo) from Safe 2 50 to Inventory 37)
+2020-12-30 14:50:56| Organizer [WARN] Cannot move more than 80 items into that inventory (4)
+2020-12-30 14:50:56| Organizer [WARN] Unable to move item.
+2020-12-30 14:50:56| Organizer [WARN] Masamune not found.
+2020-12-30 14:50:56| Organizer [WARN] Twilight Torque not found.
+2020-12-30 14:50:56| Organizer [WARN] Tartarus Platemail not found.
+2020-12-30 14:50:56| Organizer [WARN] Genmei Earring not found.
+2020-12-30 14:50:56| Organizer [WARN] Lustreless Wing not found.
+2020-12-30 14:50:56| Organizer [WARN] Sakonji Domaru +1 not found.
+2020-12-30 14:50:56| Organizer [WARN] Macrocosmic Orb not found.
+2020-12-30 14:50:56| Organizer [WARN] Worn Sack (SO+1) not found.
+2020-12-30 14:50:56| Organizer [WARN] Coin of Ruin not found.
+2020-12-30 14:50:56| Organizer [WARN] Arthro's Shell not found.
+2020-12-30 14:50:56| Organizer [WARN] Coin of Decay not found.
+2020-12-30 14:50:56| Organizer [WARN] Arthro's Shell not found.
+2020-12-30 14:50:56| Organizer [WARN] Cirein. Lantern not found.
+2020-12-30 14:50:56| Organizer [WARN] Heavy Metal not found.
+2020-12-30 14:50:56| Organizer [WARN] Heavy Metal not found.
+2020-12-30 14:50:56| Organizer [WARN] Heavy Metal not found.
+2020-12-30 14:50:56| Organizer [WARN] Lustreless Wing not found.
+2020-12-30 14:50:56| Organizer [WARN] Tavnazian Taco not found.
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Got 1 item(s), and failed getting 3 item(s)
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (S. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Faithful's Legs II) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Kindred's Seal) because it is set to be retained (seal)
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Grain Seeds) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (P. SAM Card) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (S. Astral Detritus) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Moving item! (Pill. Culottes +1) from Inventory 38 to Safe 2 49)
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Silver Voucher) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Abdhaljs Seal) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Toolbag (Shihe)) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Worn Sack (SS+1)) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Moving item! (Odr Earring) from Inventory 37 to Safe 2 50)
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Super Reraiser) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Moving item! (Shijo) from Inventory 36 to Safe 2 51)
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Buggane Horn) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Toolbag (Tsura)) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Tiger Hide) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Lynx Hide) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Zinc Ore) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Carbonara) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Sunflower Seeds) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Earth Crystal) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Handshard: PUP) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (S. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Faithful's Legs II) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Kindred's Seal) because it is set to be retained (seal)
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Grain Seeds) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (P. SAM Card) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (S. Astral Detritus) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Silver Voucher) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Abdhaljs Seal) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Toolbag (Shihe)) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Worn Sack (SS+1)) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Super Reraiser) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Buggane Horn) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Toolbag (Tsura)) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Tiger Hide) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Lynx Hide) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Zinc Ore) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Carbonara) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Sunflower Seeds) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Earth Crystal) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [VERBOSE] Skipping item: (Handshard: PUP) because non-equipment is set be retained
+2020-12-30 14:50:56| Organizer [MSG] Done! - 452 items matched and 25 items missing!
+2020-12-30 14:50:56| Organizer [VERBOSE] Item Missing: wakido kabuto +1 
+2020-12-30 14:50:56| Organizer [VERBOSE] Item Missing: ichigohitofuri {"DMG:+30", "STR+20", "Accuracy+15"}
+2020-12-30 14:50:56| Organizer [VERBOSE] Item Missing: blistering sallet +1 
+2020-12-30 14:50:56| Organizer [VERBOSE] Item Missing: pill. culottes +1 
+2020-12-30 14:50:56| Organizer [VERBOSE] Item Missing: odr earring 
+2020-12-30 14:50:56| Organizer [VERBOSE] Item Missing: shijo {"DEX+15", ""Dual Wield"+5", ""Triple Atk."+2"}
+2020-12-30 14:50:56| Organizer [VERBOSE] Item Missing: masamune {}
+2020-12-30 14:50:56| Organizer [VERBOSE] Item Missing: twilight torque 
+2020-12-30 14:50:56| Organizer [VERBOSE] Item Missing: tartarus platemail 
+2020-12-30 14:50:56| Organizer [VERBOSE] Item Missing: genmei earring 
+2020-12-30 14:50:56| Organizer [VERBOSE] Item Missing: lustreless wing 
+2020-12-30 14:50:56| Organizer [VERBOSE] Item Missing: sakonji domaru +1 {"Enhances "Overwhelm" effect"}
+2020-12-30 14:50:56| Organizer [VERBOSE] Item Missing: macrocosmic orb 
+2020-12-30 14:50:56| Organizer [VERBOSE] Item Missing: worn sack (so+1) 
+2020-12-30 14:50:56| Organizer [VERBOSE] Item Missing: coin of ruin 
+2020-12-30 14:50:56| Organizer [VERBOSE] Item Missing: arthro's shell 
+2020-12-30 14:50:56| Organizer [VERBOSE] Item Missing: coin of decay 
+2020-12-30 14:50:56| Organizer [VERBOSE] Item Missing: arthro's shell 
+2020-12-30 14:50:56| Organizer [VERBOSE] Item Missing: cirein. lantern 
+2020-12-30 14:50:56| Organizer [VERBOSE] Item Missing: heavy metal 
+2020-12-30 14:50:56| Organizer [VERBOSE] Item Missing: heavy metal 
+2020-12-30 14:50:56| Organizer [VERBOSE] Item Missing: heavy metal 
+2020-12-30 14:50:56| Organizer [VERBOSE] Item Missing: lustreless wing 
+2020-12-30 14:50:56| Organizer [VERBOSE] Item Missing: tavnazian taco 
+2020-12-30 14:50:56| Organizer [VERBOSE] Item Missing: shihei 
+2020-12-30 14:51:10| Organizer [MSG] Starting...
+2020-12-30 14:51:10| Organizer [VERBOSE] Getting!
+2020-12-30 14:51:10| Organizer [VERBOSE] Moving item! (Wh. Rarab Cap +1) from Wardrobe 40 to Inventory 35)
+2020-12-30 14:51:10| Organizer [VERBOSE] Moving item! (Wh. Rarab Cap +1) from Inventory 36 to Wardrobe 2 67)
+2020-12-30 14:51:10| Organizer [VERBOSE] Got 1 item(s), and failed getting 0 item(s)
+2020-12-30 14:51:10| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2020-12-30 14:51:10| Organizer [MSG] Done! - 29 items matched and 0 items missing!
+2020-12-30 14:51:25| Organizer [MSG] Starting...
+2020-12-30 14:51:25| Organizer [VERBOSE] Getting!
+2020-12-30 14:51:25| Organizer [VERBOSE] Got 0 item(s), and failed getting 0 item(s)
+2020-12-30 14:51:25| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2020-12-30 14:51:25| Organizer [MSG] Done! - 29 items matched and 0 items missing!
+2020-12-30 14:51:30| Organizer [MSG] Starting...
+2020-12-30 14:51:30| Organizer [VERBOSE] Getting!
+2020-12-30 14:51:30| Organizer [VERBOSE] Moving item! (Samnuha Tights) from Sack 62 to Inventory 35)
+2020-12-30 14:51:30| Organizer [VERBOSE] Moving item! (Pill. Bonnet +2) from Sack 61 to Inventory 36)
+2020-12-30 14:51:30| Organizer [VERBOSE] Moving item! (Herculean Boots) from Safe 2 52 to Inventory 37)
+2020-12-30 14:51:30| Organizer [VERBOSE] Moving item! (Bleating Mantle) from Storage 31 to Inventory 38)
+2020-12-30 14:51:30| Organizer [VERBOSE] Moving item! (Skulk. Poulaines) from Safe 2 51 to Inventory 39)
+2020-12-30 14:51:30| Organizer [VERBOSE] Moving item! (Solemnity Cape) from Safe 2 50 to Inventory 40)
+2020-12-30 14:51:30| Organizer [VERBOSE] Moving item! (Adhemar Jacket) from Sack 60 to Inventory 41)
+2020-12-30 14:51:30| Organizer [VERBOSE] Moving item! (Malignance Chapeau) from Locker 80 to Inventory 42)
+2020-12-30 14:51:30| Organizer [VERBOSE] Moving item! (Adhemar Bonnet +1) from Sack 59 to Inventory 43)
+2020-12-30 14:51:30| Organizer [VERBOSE] Moving item! (Meghanada Cuirie) from Safe 2 49 to Inventory 44)
+2020-12-30 14:51:30| Organizer [VERBOSE] Moving item! (Falcon Eye) from Sack 58 to Inventory 45)
+2020-12-30 14:51:30| Organizer [VERBOSE] Moving item! (Pillager's Vest +1) from Locker 79 to Inventory 46)
+2020-12-30 14:51:30| Organizer [VERBOSE] Moving item! (Shijo) from Safe 2 48 to Inventory 47)
+2020-12-30 14:51:30| Organizer [VERBOSE] Moving item! (Meghanada Visor +1) from Sack 57 to Inventory 48)
+2020-12-30 14:51:30| Organizer [VERBOSE] Moving item! (Iuitl Tights +1) from Locker 78 to Inventory 49)
+2020-12-30 14:51:30| Organizer [WARN] Mache Earring +1 not found.
+2020-12-30 14:51:30| Organizer [VERBOSE] Moving item! (Sandung) from Safe 2 47 to Inventory 50)
+2020-12-30 14:51:30| Organizer [VERBOSE] Moving item! (Pill. Poulaines +1) from Safe 2 46 to Inventory 51)
+2020-12-30 14:51:30| Organizer [VERBOSE] Moving item! (Odr Earring) from Safe 2 45 to Inventory 52)
+2020-12-30 14:51:30| Organizer [VERBOSE] Moving item! (Adhemar Wristbands) from Sack 56 to Inventory 53)
+2020-12-30 14:51:30| Organizer [VERBOSE] Moving item! (Sanctity Necklace) from Safe 2 44 to Inventory 54)
+2020-12-30 14:51:30| Organizer [VERBOSE] Moving item! (Mummu Wrists) from Sack 55 to Inventory 55)
+2020-12-30 14:51:31| Organizer [VERBOSE] Moving item! (Pill. Culottes +1) from Safe 2 43 to Inventory 56)
+2020-12-30 14:51:31| Organizer [VERBOSE] Moving item! (Herculean Trousers) from Sack 54 to Inventory 57)
+2020-12-30 14:51:31| Organizer [VERBOSE] Moving item! (Mummu Gamash. +1) from Locker 77 to Inventory 58)
+2020-12-30 14:51:31| Organizer [VERBOSE] Moving item! (Ishvara Earring) from Storage 30 to Inventory 59)
+2020-12-30 14:51:31| Organizer [VERBOSE] Moving item! (Meg. Jam. +1) from Locker 76 to Inventory 60)
+2020-12-30 14:51:31| Organizer [VERBOSE] Moving item! (Windbuffet Belt +1) from Safe 2 42 to Inventory 61)
+2020-12-30 14:51:31| Organizer [VERBOSE] Moving item! (Meg. Gloves +1) from Safe 2 41 to Inventory 62)
+2020-12-30 14:51:31| Organizer [VERBOSE] Moving item! (Jukukik Feather) from Sack 53 to Inventory 63)
+2020-12-30 14:51:31| Organizer [VERBOSE] Moving item! (Meg. Chausses +1) from Sack 52 to Inventory 64)
+2020-12-30 14:51:31| Organizer [VERBOSE] Got 30 item(s), and failed getting 0 item(s)
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (S. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Faithful's Legs II) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Centurio's Armor) because it is in your bazaar.
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Kindred's Seal) because it is set to be retained (seal)
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Grain Seeds) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (P. SAM Card) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Centurio's Armor) because it is in your bazaar.
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (S. Astral Detritus) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Arthro's Shell) because it is in your bazaar.
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (H. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 14:51:31| Organizer [WARN] Cannot move the item (Samnuha Tights). It has already been moved.
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Silver Voucher) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Abdhaljs Seal) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Toolbag (Shihe)) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Linkpearl) because it is an equipped linkshell.
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Worn Sack (SS+1)) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Super Reraiser) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Buggane Horn) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Toolbag (Tsura)) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (100 Byne Bill) because it is in your bazaar.
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Linkpearl) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Tiger Hide) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Lynx Hide) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Zinc Ore) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Kindred's Crest) because it is set to be retained (seal)
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Carbonara) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Sunflower Seeds) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Copper Voucher) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Earth Crystal) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Handshard: PUP) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [WARN] Cannot move the item (Adhemar Bonnet +1). It has already been moved.
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Arthro's Shell) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [WARN] Cannot move the item (Shijo). It has already been moved.
+2020-12-30 14:51:31| Organizer [WARN] Cannot move the item (Adhemar Wristbands). It has already been moved.
+2020-12-30 14:51:31| Organizer [VERBOSE] Remainder: 1 Current: 65
+2020-12-30 14:51:31| Organizer [VERBOSE] Getting!
+2020-12-30 14:51:31| Organizer [WARN] Mache Earring +1 not found.
+2020-12-30 14:51:31| Organizer [VERBOSE] Got 0 item(s), and failed getting 0 item(s)
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (S. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Faithful's Legs II) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Centurio's Armor) because it is in your bazaar.
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Kindred's Seal) because it is set to be retained (seal)
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Grain Seeds) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (P. SAM Card) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Centurio's Armor) because it is in your bazaar.
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (S. Astral Detritus) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Arthro's Shell) because it is in your bazaar.
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (H. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 14:51:31| Organizer [WARN] Cannot move the item (Samnuha Tights). It has already been moved.
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Silver Voucher) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Abdhaljs Seal) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Toolbag (Shihe)) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Linkpearl) because it is an equipped linkshell.
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Worn Sack (SS+1)) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Super Reraiser) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Buggane Horn) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Toolbag (Tsura)) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (100 Byne Bill) because it is in your bazaar.
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Linkpearl) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Tiger Hide) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Lynx Hide) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Zinc Ore) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Kindred's Crest) because it is set to be retained (seal)
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Carbonara) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Sunflower Seeds) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Copper Voucher) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Earth Crystal) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Handshard: PUP) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [WARN] Cannot move the item (Adhemar Bonnet +1). It has already been moved.
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Arthro's Shell) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [WARN] Cannot move the item (Shijo). It has already been moved.
+2020-12-30 14:51:31| Organizer [WARN] Cannot move the item (Adhemar Wristbands). It has already been moved.
+2020-12-30 14:51:31| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (S. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Faithful's Legs II) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Centurio's Armor) because it is in your bazaar.
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Kindred's Seal) because it is set to be retained (seal)
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Grain Seeds) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (P. SAM Card) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Centurio's Armor) because it is in your bazaar.
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (S. Astral Detritus) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Arthro's Shell) because it is in your bazaar.
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (H. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 14:51:31| Organizer [WARN] Cannot move the item (Samnuha Tights). It has already been moved.
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Silver Voucher) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Abdhaljs Seal) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Toolbag (Shihe)) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Linkpearl) because it is an equipped linkshell.
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Worn Sack (SS+1)) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Super Reraiser) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Buggane Horn) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Toolbag (Tsura)) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (100 Byne Bill) because it is in your bazaar.
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Linkpearl) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Tiger Hide) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Lynx Hide) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Zinc Ore) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Kindred's Crest) because it is set to be retained (seal)
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Carbonara) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Sunflower Seeds) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Copper Voucher) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Earth Crystal) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Handshard: PUP) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [WARN] Cannot move the item (Adhemar Bonnet +1). It has already been moved.
+2020-12-30 14:51:31| Organizer [VERBOSE] Skipping item: (Arthro's Shell) because non-equipment is set be retained
+2020-12-30 14:51:31| Organizer [WARN] Cannot move the item (Shijo). It has already been moved.
+2020-12-30 14:51:31| Organizer [WARN] Cannot move the item (Adhemar Wristbands). It has already been moved.
+2020-12-30 14:51:31| Organizer [MSG] Done! - 47 items matched and 1 items missing!
+2020-12-30 14:51:31| Organizer [VERBOSE] Item Missing: mache earring +1 
+2020-12-30 15:55:34| Organizer [MSG] Starting...
+2020-12-30 15:55:34| Organizer [VERBOSE] Getting!
+2020-12-30 15:55:34| Organizer [VERBOSE] Moving item! (Iuitl Tights +1) from Inventory 68 to Locker 75)
+2020-12-30 15:55:34| Organizer [VERBOSE] Moving item! (Meg. Jam. +1) from Inventory 67 to Locker 76)
+2020-12-30 15:55:34| Organizer [VERBOSE] Moving item! (Mummu Gamash. +1) from Inventory 66 to Locker 77)
+2020-12-30 15:55:34| Organizer [VERBOSE] Moving item! (Pillager's Vest +1) from Inventory 65 to Locker 78)
+2020-12-30 15:55:34| Organizer [VERBOSE] Moving item! (Pill. Culottes +1) from Inventory 64 to Locker 79)
+2020-12-30 15:55:34| Organizer [WARN] Cannot move more than 80 items into that inventory (4)
+2020-12-30 15:55:34| Organizer [WARN] Unable to move item.
+2020-12-30 15:55:34| Organizer [WARN] Cannot move more than 80 items into that inventory (4)
+2020-12-30 15:55:34| Organizer [WARN] Unable to move item.
+2020-12-30 15:55:34| Organizer [VERBOSE] Moving item! (Sandung) from Inventory 63 to Safe 2 40)
+2020-12-30 15:55:34| Organizer [WARN] Masamune not found.
+2020-12-30 15:55:34| Organizer [VERBOSE] Moving item! (Sanctity Necklace) from Inventory 62 to Safe 2 41)
+2020-12-30 15:55:34| Organizer [VERBOSE] Moving item! (Solemnity Cape) from Inventory 61 to Safe 2 42)
+2020-12-30 15:55:34| Organizer [WARN] Twilight Torque not found.
+2020-12-30 15:55:35| Organizer [WARN] Tartarus Platemail not found.
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Meghanada Cuirie) from Inventory 60 to Safe 2 43)
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Windbuffet Belt +1) from Inventory 59 to Safe 2 44)
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Meg. Gloves +1) from Inventory 58 to Safe 2 45)
+2020-12-30 15:55:35| Organizer [WARN] Genmei Earring not found.
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Skulk. Poulaines) from Inventory 57 to Safe 2 46)
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Herculean Boots) from Inventory 56 to Safe 2 47)
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Pill. Poulaines +1) from Inventory 55 to Safe 2 48)
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Bleating Mantle) from Inventory 54 to Storage 29)
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Ishvara Earring) from Inventory 53 to Storage 30)
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Jukukik Feather) from Inventory 52 to Sack 51)
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Falcon Eye) from Inventory 51 to Sack 52)
+2020-12-30 15:55:35| Organizer [WARN] Lustreless Wing not found.
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Pill. Bonnet +2) from Inventory 50 to Sack 53)
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Adhemar Bonnet +1) from Inventory 49 to Sack 54)
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Meghanada Visor +1) from Inventory 48 to Sack 55)
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Adhemar Jacket) from Inventory 47 to Sack 56)
+2020-12-30 15:55:35| Organizer [WARN] Sakonji Domaru +1 not found.
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Mummu Wrists) from Inventory 46 to Sack 57)
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Adhemar Wristbands) from Inventory 45 to Sack 58)
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Herculean Trousers) from Inventory 44 to Sack 59)
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Meg. Chausses +1) from Inventory 43 to Sack 60)
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Samnuha Tights) from Inventory 42 to Sack 61)
+2020-12-30 15:55:35| Organizer [WARN] Macrocosmic Orb not found.
+2020-12-30 15:55:35| Organizer [WARN] Wakido Domaru +2 not found.
+2020-12-30 15:55:35| Organizer [WARN] Flam. Gambieras +1 not found.
+2020-12-30 15:55:35| Organizer [WARN] Cirein. Lantern not found.
+2020-12-30 15:55:35| Organizer [WARN] Heavy Metal not found.
+2020-12-30 15:55:35| Organizer [WARN] Heavy Metal not found.
+2020-12-30 15:55:35| Organizer [WARN] Heavy Metal not found.
+2020-12-30 15:55:35| Organizer [WARN] Lustreless Wing not found.
+2020-12-30 15:55:35| Organizer [WARN] Tavnazian Taco not found.
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Got 28 item(s), and failed getting 2 item(s)
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (S. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Faithful's Legs II) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Centurio's Armor) because it is in your bazaar.
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Kindred's Seal) because it is set to be retained (seal)
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Grain Seeds) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (P. SAM Card) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Centurio's Armor) because it is in your bazaar.
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (S. Astral Detritus) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Arthro's Shell) because it is in your bazaar.
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (H. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Silver Voucher) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Abdhaljs Seal) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Toolbag (Shihe)) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Linkpearl) because it is an equipped linkshell.
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Worn Sack (SS+1)) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Super Reraiser) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Buggane Horn) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Toolbag (Tsura)) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (100 Byne Bill) because it is in your bazaar.
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Linkpearl) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Tiger Hide) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Lynx Hide) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Zinc Ore) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Kindred's Crest) because it is set to be retained (seal)
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Carbonara) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Sunflower Seeds) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Copper Voucher) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Earth Crystal) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Handshard: PUP) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Malignance Chapeau) from Inventory 41 to Safe 2 49)
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Arthro's Shell) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Shijo) from Inventory 40 to Safe 2 50)
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Odr Earring) from Inventory 39 to Safe 2 51)
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (R.K. Army Shield) from Inventory 38 to Safe 2 52)
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Worn Sack (DO+1)) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [WARN] Cannot move the item (Valorous Mitts). It has already been moved.
+2020-12-30 15:55:35| Organizer [WARN] Cannot move the item (Tatena. Sune. +1). It has already been moved.
+2020-12-30 15:55:35| Organizer [VERBOSE] Remainder: 18 Current: 37
+2020-12-30 15:55:35| Organizer [VERBOSE] Getting!
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Odr Earring) from Safe 2 53 to Inventory 37)
+2020-12-30 15:55:35| Organizer [WARN] Cannot move more than 80 items into that inventory (4)
+2020-12-30 15:55:35| Organizer [WARN] Unable to move item.
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Shijo) from Safe 2 52 to Inventory 38)
+2020-12-30 15:55:35| Organizer [WARN] Cannot move more than 80 items into that inventory (4)
+2020-12-30 15:55:35| Organizer [WARN] Unable to move item.
+2020-12-30 15:55:35| Organizer [WARN] Masamune not found.
+2020-12-30 15:55:35| Organizer [WARN] Twilight Torque not found.
+2020-12-30 15:55:35| Organizer [WARN] Tartarus Platemail not found.
+2020-12-30 15:55:35| Organizer [WARN] Genmei Earring not found.
+2020-12-30 15:55:35| Organizer [WARN] Lustreless Wing not found.
+2020-12-30 15:55:35| Organizer [WARN] Sakonji Domaru +1 not found.
+2020-12-30 15:55:35| Organizer [WARN] Macrocosmic Orb not found.
+2020-12-30 15:55:35| Organizer [WARN] Wakido Domaru +2 not found.
+2020-12-30 15:55:35| Organizer [WARN] Flam. Gambieras +1 not found.
+2020-12-30 15:55:35| Organizer [WARN] Cirein. Lantern not found.
+2020-12-30 15:55:35| Organizer [WARN] Heavy Metal not found.
+2020-12-30 15:55:35| Organizer [WARN] Heavy Metal not found.
+2020-12-30 15:55:35| Organizer [WARN] Heavy Metal not found.
+2020-12-30 15:55:35| Organizer [WARN] Lustreless Wing not found.
+2020-12-30 15:55:35| Organizer [WARN] Tavnazian Taco not found.
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Got 1 item(s), and failed getting 2 item(s)
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (S. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Faithful's Legs II) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Centurio's Armor) because it is in your bazaar.
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Kindred's Seal) because it is set to be retained (seal)
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Grain Seeds) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (P. SAM Card) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Centurio's Armor) because it is in your bazaar.
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (S. Astral Detritus) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Arthro's Shell) because it is in your bazaar.
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (H. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Odr Earring) from Inventory 39 to Safe 2 51)
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Silver Voucher) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Abdhaljs Seal) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Toolbag (Shihe)) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Linkpearl) because it is an equipped linkshell.
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Worn Sack (SS+1)) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Moving item! (Shijo) from Inventory 38 to Safe 2 52)
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Super Reraiser) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Buggane Horn) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Toolbag (Tsura)) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (100 Byne Bill) because it is in your bazaar.
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Linkpearl) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Tiger Hide) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Lynx Hide) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Zinc Ore) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Kindred's Crest) because it is set to be retained (seal)
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Carbonara) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Sunflower Seeds) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Copper Voucher) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Earth Crystal) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Handshard: PUP) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Arthro's Shell) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Worn Sack (DO+1)) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [WARN] Cannot move the item (Valorous Mitts). It has already been moved.
+2020-12-30 15:55:35| Organizer [WARN] Cannot move the item (Tatena. Sune. +1). It has already been moved.
+2020-12-30 15:55:35| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (S. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Faithful's Legs II) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Centurio's Armor) because it is in your bazaar.
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Kindred's Seal) because it is set to be retained (seal)
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Grain Seeds) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (P. SAM Card) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Centurio's Armor) because it is in your bazaar.
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (S. Astral Detritus) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Arthro's Shell) because it is in your bazaar.
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (H. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Silver Voucher) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Abdhaljs Seal) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Toolbag (Shihe)) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Linkpearl) because it is an equipped linkshell.
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Worn Sack (SS+1)) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Super Reraiser) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Buggane Horn) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Toolbag (Tsura)) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (100 Byne Bill) because it is in your bazaar.
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Linkpearl) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Tiger Hide) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Lynx Hide) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Zinc Ore) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Kindred's Crest) because it is set to be retained (seal)
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Carbonara) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Sunflower Seeds) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Copper Voucher) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Earth Crystal) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Handshard: PUP) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Arthro's Shell) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [VERBOSE] Skipping item: (Worn Sack (DO+1)) because non-equipment is set be retained
+2020-12-30 15:55:35| Organizer [WARN] Cannot move the item (Valorous Mitts). It has already been moved.
+2020-12-30 15:55:35| Organizer [WARN] Cannot move the item (Tatena. Sune. +1). It has already been moved.
+2020-12-30 15:55:35| Organizer [MSG] Done! - 381 items matched and 18 items missing!
+2020-12-30 15:55:35| Organizer [VERBOSE] Item Missing: odr earring 
+2020-12-30 15:55:35| Organizer [VERBOSE] Item Missing: shijo {"DEX+15", ""Dual Wield"+5", ""Triple Atk."+2"}
+2020-12-30 15:55:35| Organizer [VERBOSE] Item Missing: masamune {}
+2020-12-30 15:55:35| Organizer [VERBOSE] Item Missing: twilight torque 
+2020-12-30 15:55:35| Organizer [VERBOSE] Item Missing: tartarus platemail 
+2020-12-30 15:55:35| Organizer [VERBOSE] Item Missing: genmei earring 
+2020-12-30 15:55:35| Organizer [VERBOSE] Item Missing: lustreless wing 
+2020-12-30 15:55:35| Organizer [VERBOSE] Item Missing: sakonji domaru +1 {"Enhances "Overwhelm" effect"}
+2020-12-30 15:55:35| Organizer [VERBOSE] Item Missing: macrocosmic orb 
+2020-12-30 15:55:35| Organizer [VERBOSE] Item Missing: wakido domaru +2 
+2020-12-30 15:55:35| Organizer [VERBOSE] Item Missing: flam. gambieras +1 
+2020-12-30 15:55:35| Organizer [VERBOSE] Item Missing: cirein. lantern 
+2020-12-30 15:55:35| Organizer [VERBOSE] Item Missing: heavy metal 
+2020-12-30 15:55:35| Organizer [VERBOSE] Item Missing: heavy metal 
+2020-12-30 15:55:35| Organizer [VERBOSE] Item Missing: heavy metal 
+2020-12-30 15:55:35| Organizer [VERBOSE] Item Missing: lustreless wing 
+2020-12-30 15:55:35| Organizer [VERBOSE] Item Missing: tavnazian taco 
+2020-12-30 15:55:35| Organizer [VERBOSE] Item Missing: shihei 
+2020-12-30 15:55:38| Organizer [MSG] Starting...
+2020-12-30 15:55:38| Organizer [VERBOSE] Getting!
+2020-12-30 15:55:38| Organizer [VERBOSE] Moving item! (Wh. Rarab Cap +1) from Wardrobe 2 68 to Inventory 37)
+2020-12-30 15:55:38| Organizer [VERBOSE] Moving item! (Wh. Rarab Cap +1) from Inventory 38 to Wardrobe 37)
+2020-12-30 15:55:38| Organizer [WARN] Wakido Kabuto +1 not found.
+2020-12-30 15:55:38| Organizer [WARN] Ichigohitofuri not found.
+2020-12-30 15:55:38| Organizer [WARN] Blistering Sallet +1 not found.
+2020-12-30 15:55:38| Organizer [VERBOSE] Moving item! (Valorous Mitts) from Inventory 37 to Wardrobe 38)
+2020-12-30 15:55:38| Organizer [VERBOSE] Moving item! (Tatena. Sune. +1) from Inventory 36 to Wardrobe 39)
+2020-12-30 15:55:38| Organizer [WARN] Pill. Culottes +1 not found.
+2020-12-30 15:55:38| Organizer [VERBOSE] Moving item! (Odr Earring) from Safe 2 53 to Inventory 35)
+2020-12-30 15:55:38| Organizer [VERBOSE] Moving item! (Odr Earring) from Inventory 36 to Locker 79)
+2020-12-30 15:55:38| Organizer [VERBOSE] Moving item! (Shijo) from Safe 2 52 to Inventory 35)
+2020-12-30 15:55:38| Organizer [WARN] Cannot move more than 80 items into that inventory (4)
+2020-12-30 15:55:38| Organizer [WARN] Unable to move item.
+2020-12-30 15:55:38| Organizer [WARN] Masamune not found.
+2020-12-30 15:55:38| Organizer [WARN] Twilight Torque not found.
+2020-12-30 15:55:38| Organizer [WARN] Tartarus Platemail not found.
+2020-12-30 15:55:38| Organizer [WARN] Genmei Earring not found.
+2020-12-30 15:55:38| Organizer [WARN] Jukukik Feather not found.
+2020-12-30 15:55:38| Organizer [WARN] Falcon Eye not found.
+2020-12-30 15:55:38| Organizer [WARN] Lustreless Wing not found.
+2020-12-30 15:55:38| Organizer [WARN] Pill. Bonnet +2 not found.
+2020-12-30 15:55:38| Organizer [WARN] Adhemar Bonnet +1 not found.
+2020-12-30 15:55:38| Organizer [WARN] Meghanada Visor +1 not found.
+2020-12-30 15:55:38| Organizer [WARN] Adhemar Jacket not found.
+2020-12-30 15:55:38| Organizer [WARN] Sakonji Domaru +1 not found.
+2020-12-30 15:55:38| Organizer [WARN] Mummu Wrists not found.
+2020-12-30 15:55:38| Organizer [WARN] Adhemar Wristbands not found.
+2020-12-30 15:55:38| Organizer [WARN] Herculean Trousers not found.
+2020-12-30 15:55:38| Organizer [WARN] Meg. Chausses +1 not found.
+2020-12-30 15:55:38| Organizer [WARN] Samnuha Tights not found.
+2020-12-30 15:55:38| Organizer [WARN] Macrocosmic Orb not found.
+2020-12-30 15:55:38| Organizer [WARN] Worn Sack (SO+1) not found.
+2020-12-30 15:55:38| Organizer [WARN] Coin of Ruin not found.
+2020-12-30 15:55:38| Organizer [WARN] Arthro's Shell not found.
+2020-12-30 15:55:38| Organizer [WARN] Coin of Decay not found.
+2020-12-30 15:55:38| Organizer [WARN] Arthro's Shell not found.
+2020-12-30 15:55:38| Organizer [WARN] Cirein. Lantern not found.
+2020-12-30 15:55:38| Organizer [WARN] Heavy Metal not found.
+2020-12-30 15:55:38| Organizer [WARN] Heavy Metal not found.
+2020-12-30 15:55:38| Organizer [WARN] Heavy Metal not found.
+2020-12-30 15:55:38| Organizer [WARN] Lustreless Wing not found.
+2020-12-30 15:55:38| Organizer [WARN] Tavnazian Taco not found.
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 15:55:38| Organizer [VERBOSE] Got 5 item(s), and failed getting 1 item(s)
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (S. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (Faithful's Legs II) because non-equipment is set be retained
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (Kindred's Seal) because it is set to be retained (seal)
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (Grain Seeds) because non-equipment is set be retained
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (P. SAM Card) because non-equipment is set be retained
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (S. Astral Detritus) because non-equipment is set be retained
+2020-12-30 15:55:38| Organizer [VERBOSE] Moving item! (Shijo) from Inventory 36 to Safe 2 51)
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (Silver Voucher) because non-equipment is set be retained
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (Abdhaljs Seal) because non-equipment is set be retained
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (Toolbag (Shihe)) because non-equipment is set be retained
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (Worn Sack (SS+1)) because non-equipment is set be retained
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (Super Reraiser) because non-equipment is set be retained
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (Buggane Horn) because non-equipment is set be retained
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (Toolbag (Tsura)) because non-equipment is set be retained
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (Tiger Hide) because non-equipment is set be retained
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (Lynx Hide) because non-equipment is set be retained
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (Zinc Ore) because non-equipment is set be retained
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (Carbonara) because non-equipment is set be retained
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (Sunflower Seeds) because non-equipment is set be retained
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (Earth Crystal) because non-equipment is set be retained
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (Handshard: PUP) because non-equipment is set be retained
+2020-12-30 15:55:38| Organizer [VERBOSE] Skipping item: (Worn Sack (DO+1)) because non-equipment is set be retained
+2020-12-30 15:55:38| Organizer [VERBOSE] Remainder: 35 Current: 35
+2020-12-30 15:55:38| Organizer [VERBOSE] Getting!
+2020-12-30 15:55:39| Organizer [WARN] Wakido Kabuto +1 not found.
+2020-12-30 15:55:39| Organizer [WARN] Ichigohitofuri not found.
+2020-12-30 15:55:39| Organizer [WARN] Blistering Sallet +1 not found.
+2020-12-30 15:55:39| Organizer [WARN] Pill. Culottes +1 not found.
+2020-12-30 15:55:39| Organizer [VERBOSE] Moving item! (Shijo) from Safe 2 52 to Inventory 35)
+2020-12-30 15:55:39| Organizer [WARN] Cannot move more than 80 items into that inventory (4)
+2020-12-30 15:55:39| Organizer [WARN] Unable to move item.
+2020-12-30 15:55:39| Organizer [WARN] Masamune not found.
+2020-12-30 15:55:39| Organizer [WARN] Twilight Torque not found.
+2020-12-30 15:55:39| Organizer [WARN] Tartarus Platemail not found.
+2020-12-30 15:55:39| Organizer [WARN] Genmei Earring not found.
+2020-12-30 15:55:39| Organizer [WARN] Jukukik Feather not found.
+2020-12-30 15:55:39| Organizer [WARN] Falcon Eye not found.
+2020-12-30 15:55:39| Organizer [WARN] Lustreless Wing not found.
+2020-12-30 15:55:39| Organizer [WARN] Pill. Bonnet +2 not found.
+2020-12-30 15:55:39| Organizer [WARN] Adhemar Bonnet +1 not found.
+2020-12-30 15:55:39| Organizer [WARN] Meghanada Visor +1 not found.
+2020-12-30 15:55:39| Organizer [WARN] Adhemar Jacket not found.
+2020-12-30 15:55:39| Organizer [WARN] Sakonji Domaru +1 not found.
+2020-12-30 15:55:39| Organizer [WARN] Mummu Wrists not found.
+2020-12-30 15:55:39| Organizer [WARN] Adhemar Wristbands not found.
+2020-12-30 15:55:39| Organizer [WARN] Herculean Trousers not found.
+2020-12-30 15:55:39| Organizer [WARN] Meg. Chausses +1 not found.
+2020-12-30 15:55:39| Organizer [WARN] Samnuha Tights not found.
+2020-12-30 15:55:39| Organizer [WARN] Macrocosmic Orb not found.
+2020-12-30 15:55:39| Organizer [WARN] Worn Sack (SO+1) not found.
+2020-12-30 15:55:39| Organizer [WARN] Coin of Ruin not found.
+2020-12-30 15:55:39| Organizer [WARN] Arthro's Shell not found.
+2020-12-30 15:55:39| Organizer [WARN] Coin of Decay not found.
+2020-12-30 15:55:39| Organizer [WARN] Arthro's Shell not found.
+2020-12-30 15:55:39| Organizer [WARN] Cirein. Lantern not found.
+2020-12-30 15:55:39| Organizer [WARN] Heavy Metal not found.
+2020-12-30 15:55:39| Organizer [WARN] Heavy Metal not found.
+2020-12-30 15:55:39| Organizer [WARN] Heavy Metal not found.
+2020-12-30 15:55:39| Organizer [WARN] Lustreless Wing not found.
+2020-12-30 15:55:39| Organizer [WARN] Tavnazian Taco not found.
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Got 1 item(s), and failed getting 1 item(s)
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (S. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Faithful's Legs II) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Kindred's Seal) because it is set to be retained (seal)
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Grain Seeds) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (P. SAM Card) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (S. Astral Detritus) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Moving item! (Shijo) from Inventory 36 to Safe 2 51)
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Silver Voucher) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Abdhaljs Seal) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Toolbag (Shihe)) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Worn Sack (SS+1)) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Super Reraiser) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Buggane Horn) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Toolbag (Tsura)) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Tiger Hide) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Lynx Hide) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Zinc Ore) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Carbonara) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Sunflower Seeds) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Earth Crystal) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Handshard: PUP) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Worn Sack (DO+1)) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (S. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Faithful's Legs II) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Kindred's Seal) because it is set to be retained (seal)
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Grain Seeds) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (P. SAM Card) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (S. Astral Detritus) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Silver Voucher) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Abdhaljs Seal) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Toolbag (Shihe)) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Worn Sack (SS+1)) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Super Reraiser) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Buggane Horn) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Toolbag (Tsura)) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Tiger Hide) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Lynx Hide) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Zinc Ore) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Carbonara) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Sunflower Seeds) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Earth Crystal) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Handshard: PUP) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [VERBOSE] Skipping item: (Worn Sack (DO+1)) because non-equipment is set be retained
+2020-12-30 15:55:39| Organizer [MSG] Done! - 442 items matched and 35 items missing!
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: wakido kabuto +1 
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: ichigohitofuri {"DMG:+30", "STR+20", "Accuracy+15"}
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: blistering sallet +1 
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: pill. culottes +1 
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: shijo {"DEX+15", ""Dual Wield"+5", ""Triple Atk."+2"}
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: masamune {}
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: twilight torque 
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: tartarus platemail 
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: genmei earring 
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: jukukik feather 
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: falcon eye 
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: lustreless wing 
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: pill. bonnet +2 
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: adhemar bonnet +1 {"STR+12", "DEX+12", "Attack+20"}
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: meghanada visor +1 
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: adhemar jacket {"DEX+10", "AGI+10", "Accuracy+15"}
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: sakonji domaru +1 {"Enhances "Overwhelm" effect"}
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: mummu wrists 
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: adhemar wristbands {"DEX+10", "AGI+10", "Accuracy+15"}
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: herculean trousers {"Attack+24", "Crit. hit damage +1%", "DEX+8"}
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: meg. chausses +1 
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: samnuha tights {"STR+10", "DEX+10", ""Dbl.Atk."+3", ""Triple Atk."+3"}
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: macrocosmic orb 
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: worn sack (so+1) 
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: coin of ruin 
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: arthro's shell 
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: coin of decay 
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: arthro's shell 
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: cirein. lantern 
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: heavy metal 
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: heavy metal 
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: heavy metal 
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: lustreless wing 
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: tavnazian taco 
+2020-12-30 15:55:39| Organizer [VERBOSE] Item Missing: shihei 
+2020-12-30 15:57:10| Organizer [VERBOSE] Skipping item: (S. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 15:57:10| Organizer [VERBOSE] Skipping item: (Faithful's Legs II) because non-equipment is set be retained
+2020-12-30 15:57:10| Organizer [VERBOSE] Skipping item: (Kindred's Seal) because it is set to be retained (seal)
+2020-12-30 15:57:10| Organizer [VERBOSE] Skipping item: (Grain Seeds) because non-equipment is set be retained
+2020-12-30 15:57:10| Organizer [VERBOSE] Skipping item: (P. SAM Card) because non-equipment is set be retained
+2020-12-30 15:57:10| Organizer [VERBOSE] Skipping item: (S. Astral Detritus) because non-equipment is set be retained
+2020-12-30 15:57:10| Organizer [VERBOSE] Skipping item: (Silver Voucher) because non-equipment is set be retained
+2020-12-30 15:57:10| Organizer [VERBOSE] Skipping item: (Abdhaljs Seal) because non-equipment is set be retained
+2020-12-30 15:57:10| Organizer [VERBOSE] Skipping item: (Toolbag (Shihe)) because non-equipment is set be retained
+2020-12-30 15:57:10| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 15:57:10| Organizer [VERBOSE] Skipping item: (Worn Sack (SS+1)) because non-equipment is set be retained
+2020-12-30 15:57:10| Organizer [VERBOSE] Moving item! (Shijo) from Inventory 36 to Safe 2 52)
+2020-12-30 15:57:10| Organizer [VERBOSE] Skipping item: (Super Reraiser) because non-equipment is set be retained
+2020-12-30 15:57:10| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 15:57:10| Organizer [VERBOSE] Skipping item: (Buggane Horn) because non-equipment is set be retained
+2020-12-30 15:57:10| Organizer [VERBOSE] Skipping item: (Toolbag (Tsura)) because non-equipment is set be retained
+2020-12-30 15:57:10| Organizer [VERBOSE] Skipping item: (Tiger Hide) because non-equipment is set be retained
+2020-12-30 15:57:10| Organizer [VERBOSE] Skipping item: (Lynx Hide) because non-equipment is set be retained
+2020-12-30 15:57:10| Organizer [VERBOSE] Skipping item: (Zinc Ore) because non-equipment is set be retained
+2020-12-30 15:57:10| Organizer [VERBOSE] Skipping item: (Carbonara) because non-equipment is set be retained
+2020-12-30 15:57:10| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 15:57:10| Organizer [VERBOSE] Skipping item: (Sunflower Seeds) because non-equipment is set be retained
+2020-12-30 15:57:10| Organizer [VERBOSE] Skipping item: (Earth Crystal) because non-equipment is set be retained
+2020-12-30 15:57:10| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 15:57:10| Organizer [VERBOSE] Skipping item: (Handshard: PUP) because non-equipment is set be retained
+2020-12-30 15:57:10| Organizer [VERBOSE] Skipping item: (Worn Sack (DO+1)) because non-equipment is set be retained
+2020-12-30 15:57:14| Organizer [MSG] Starting...
+2020-12-30 15:57:14| Organizer [VERBOSE] Getting!
+2020-12-30 15:57:14| Organizer [WARN] Wakido Kabuto +1 not found.
+2020-12-30 15:57:14| Organizer [WARN] Ichigohitofuri not found.
+2020-12-30 15:57:14| Organizer [WARN] Blistering Sallet +1 not found.
+2020-12-30 15:57:14| Organizer [VERBOSE] Moving item! (Odr Earring) from Safe 2 53 to Inventory 35)
+2020-12-30 15:57:14| Organizer [WARN] Cannot move more than 80 items into that inventory (4)
+2020-12-30 15:57:14| Organizer [WARN] Unable to move item.
+2020-12-30 15:57:14| Organizer [VERBOSE] Moving item! (Shijo) from Safe 2 52 to Inventory 36)
+2020-12-30 15:57:14| Organizer [WARN] Cannot move more than 80 items into that inventory (4)
+2020-12-30 15:57:14| Organizer [WARN] Unable to move item.
+2020-12-30 15:57:14| Organizer [WARN] Masamune not found.
+2020-12-30 15:57:14| Organizer [WARN] Twilight Torque not found.
+2020-12-30 15:57:14| Organizer [WARN] Tartarus Platemail not found.
+2020-12-30 15:57:14| Organizer [WARN] Genmei Earring not found.
+2020-12-30 15:57:14| Organizer [WARN] Lustreless Wing not found.
+2020-12-30 15:57:14| Organizer [WARN] Sakonji Domaru +1 not found.
+2020-12-30 15:57:15| Organizer [WARN] Macrocosmic Orb not found.
+2020-12-30 15:57:15| Organizer [WARN] Worn Sack (SO+1) not found.
+2020-12-30 15:57:15| Organizer [WARN] Coin of Ruin not found.
+2020-12-30 15:57:15| Organizer [WARN] Arthro's Shell not found.
+2020-12-30 15:57:15| Organizer [WARN] Coin of Decay not found.
+2020-12-30 15:57:15| Organizer [WARN] Arthro's Shell not found.
+2020-12-30 15:57:15| Organizer [WARN] Cirein. Lantern not found.
+2020-12-30 15:57:15| Organizer [WARN] Heavy Metal not found.
+2020-12-30 15:57:15| Organizer [WARN] Heavy Metal not found.
+2020-12-30 15:57:15| Organizer [WARN] Heavy Metal not found.
+2020-12-30 15:57:15| Organizer [WARN] Lustreless Wing not found.
+2020-12-30 15:57:15| Organizer [WARN] Tavnazian Taco not found.
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Got 1 item(s), and failed getting 2 item(s)
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (S. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Faithful's Legs II) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Kindred's Seal) because it is set to be retained (seal)
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Grain Seeds) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (P. SAM Card) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (S. Astral Detritus) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Moving item! (Odr Earring) from Inventory 37 to Safe 2 51)
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Silver Voucher) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Abdhaljs Seal) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Toolbag (Shihe)) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Worn Sack (SS+1)) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Moving item! (Shijo) from Inventory 36 to Safe 2 52)
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Super Reraiser) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Buggane Horn) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Toolbag (Tsura)) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Tiger Hide) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Lynx Hide) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Zinc Ore) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Carbonara) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Sunflower Seeds) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Earth Crystal) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Handshard: PUP) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Worn Sack (DO+1)) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Remainder: 24 Current: 35
+2020-12-30 15:57:15| Organizer [VERBOSE] Getting!
+2020-12-30 15:57:15| Organizer [WARN] Wakido Kabuto +1 not found.
+2020-12-30 15:57:15| Organizer [WARN] Ichigohitofuri not found.
+2020-12-30 15:57:15| Organizer [WARN] Blistering Sallet +1 not found.
+2020-12-30 15:57:15| Organizer [VERBOSE] Moving item! (Odr Earring) from Safe 2 53 to Inventory 35)
+2020-12-30 15:57:15| Organizer [WARN] Cannot move more than 80 items into that inventory (4)
+2020-12-30 15:57:15| Organizer [WARN] Unable to move item.
+2020-12-30 15:57:15| Organizer [VERBOSE] Moving item! (Shijo) from Safe 2 52 to Inventory 36)
+2020-12-30 15:57:15| Organizer [WARN] Cannot move more than 80 items into that inventory (4)
+2020-12-30 15:57:15| Organizer [WARN] Unable to move item.
+2020-12-30 15:57:15| Organizer [WARN] Masamune not found.
+2020-12-30 15:57:15| Organizer [WARN] Twilight Torque not found.
+2020-12-30 15:57:15| Organizer [WARN] Tartarus Platemail not found.
+2020-12-30 15:57:15| Organizer [WARN] Genmei Earring not found.
+2020-12-30 15:57:15| Organizer [WARN] Lustreless Wing not found.
+2020-12-30 15:57:15| Organizer [WARN] Sakonji Domaru +1 not found.
+2020-12-30 15:57:15| Organizer [WARN] Macrocosmic Orb not found.
+2020-12-30 15:57:15| Organizer [WARN] Worn Sack (SO+1) not found.
+2020-12-30 15:57:15| Organizer [WARN] Coin of Ruin not found.
+2020-12-30 15:57:15| Organizer [WARN] Arthro's Shell not found.
+2020-12-30 15:57:15| Organizer [WARN] Coin of Decay not found.
+2020-12-30 15:57:15| Organizer [WARN] Arthro's Shell not found.
+2020-12-30 15:57:15| Organizer [WARN] Cirein. Lantern not found.
+2020-12-30 15:57:15| Organizer [WARN] Heavy Metal not found.
+2020-12-30 15:57:15| Organizer [WARN] Heavy Metal not found.
+2020-12-30 15:57:15| Organizer [WARN] Heavy Metal not found.
+2020-12-30 15:57:15| Organizer [WARN] Lustreless Wing not found.
+2020-12-30 15:57:15| Organizer [WARN] Tavnazian Taco not found.
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Got 1 item(s), and failed getting 2 item(s)
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (S. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Faithful's Legs II) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Kindred's Seal) because it is set to be retained (seal)
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Grain Seeds) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (P. SAM Card) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (S. Astral Detritus) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Moving item! (Odr Earring) from Inventory 37 to Safe 2 51)
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Silver Voucher) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Abdhaljs Seal) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Toolbag (Shihe)) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Worn Sack (SS+1)) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Moving item! (Shijo) from Inventory 36 to Safe 2 52)
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Super Reraiser) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Buggane Horn) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Toolbag (Tsura)) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Tiger Hide) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Lynx Hide) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Zinc Ore) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Carbonara) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Sunflower Seeds) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Earth Crystal) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Handshard: PUP) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Worn Sack (DO+1)) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (S. Kindred Crest) because it is set to be retained (seal)
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Faithful's Legs II) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Kindred's Seal) because it is set to be retained (seal)
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Grain Seeds) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (P. SAM Card) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (S. Astral Detritus) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Silver Voucher) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Abdhaljs Seal) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Toolbag (Shihe)) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Shihei) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Worn Sack (SS+1)) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Super Reraiser) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Skeleton Key) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Buggane Horn) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Toolbag (Tsura)) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Tiger Hide) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Lynx Hide) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Zinc Ore) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Carbonara) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Sunflower Seeds) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Earth Crystal) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Water Crystal) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Handshard: PUP) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [VERBOSE] Skipping item: (Worn Sack (DO+1)) because non-equipment is set be retained
+2020-12-30 15:57:15| Organizer [MSG] Done! - 453 items matched and 24 items missing!
+2020-12-30 15:57:15| Organizer [VERBOSE] Item Missing: wakido kabuto +1 
+2020-12-30 15:57:15| Organizer [VERBOSE] Item Missing: ichigohitofuri {"DMG:+30", "STR+20", "Accuracy+15"}
+2020-12-30 15:57:15| Organizer [VERBOSE] Item Missing: blistering sallet +1 
+2020-12-30 15:57:15| Organizer [VERBOSE] Item Missing: odr earring 
+2020-12-30 15:57:15| Organizer [VERBOSE] Item Missing: shijo {"DEX+15", ""Dual Wield"+5", ""Triple Atk."+2"}
+2020-12-30 15:57:15| Organizer [VERBOSE] Item Missing: masamune {}
+2020-12-30 15:57:15| Organizer [VERBOSE] Item Missing: twilight torque 
+2020-12-30 15:57:15| Organizer [VERBOSE] Item Missing: tartarus platemail 
+2020-12-30 15:57:15| Organizer [VERBOSE] Item Missing: genmei earring 
+2020-12-30 15:57:15| Organizer [VERBOSE] Item Missing: lustreless wing 
+2020-12-30 15:57:15| Organizer [VERBOSE] Item Missing: sakonji domaru +1 {"Enhances "Overwhelm" effect"}
+2020-12-30 15:57:15| Organizer [VERBOSE] Item Missing: macrocosmic orb 
+2020-12-30 15:57:15| Organizer [VERBOSE] Item Missing: worn sack (so+1) 
+2020-12-30 15:57:15| Organizer [VERBOSE] Item Missing: coin of ruin 
+2020-12-30 15:57:15| Organizer [VERBOSE] Item Missing: arthro's shell 
+2020-12-30 15:57:15| Organizer [VERBOSE] Item Missing: coin of decay 
+2020-12-30 15:57:15| Organizer [VERBOSE] Item Missing: arthro's shell 
+2020-12-30 15:57:15| Organizer [VERBOSE] Item Missing: cirein. lantern 
+2020-12-30 15:57:15| Organizer [VERBOSE] Item Missing: heavy metal 
+2020-12-30 15:57:15| Organizer [VERBOSE] Item Missing: heavy metal 
+2020-12-30 15:57:15| Organizer [VERBOSE] Item Missing: heavy metal 
+2020-12-30 15:57:15| Organizer [VERBOSE] Item Missing: lustreless wing 
+2020-12-30 15:57:15| Organizer [VERBOSE] Item Missing: tavnazian taco 
+2020-12-30 15:57:15| Organizer [VERBOSE] Item Missing: shihei 

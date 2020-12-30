@@ -1,5 +1,5 @@
 sets.idle = {
-  head = "Assim. Keffiyeh +2",
+  head = "Malignance Chapeau",
   body = "Amalric Doublet",
   hands = "Assim. Bazu. +2",
   legs = "Rawhide Trousers",
@@ -8,8 +8,8 @@ sets.idle = {
   ear1 = "Etiolation Earring",
   ear2 = "Infused Earring",
   ring1 = "Karieyh Ring",
-  ring2 = "Chirich Ring",
-  back = "Solemnity Cape"
+  ring2 = "Dark Ring",
+  back = "Aptitude Mantle +1"
 }
 
 sets.dt = {
@@ -19,17 +19,21 @@ sets.dt = {
   back = "Solemnity Cape",
   ear1 = "Etiolation Earring",
   ear2 = "Ethereal earring",
-  ring1 = "Warden's Ring",
+  ring1 = "Defending Ring",
   ring2 = { name="Dark Ring", augments={'Phys. dmg. taken -4%','Magic dmg. taken -2%',} },
   legs = { name="Iuitl Tights +1", augments={'Phys. dmg. taken -4%','Magic dmg. taken -4%','Crit.hit rate+1',}},
 }
 
 sets.weapon = {}
-sets.weapon.indices = {'Savage Spam', 'CDC Spam', 'Magic'}
+sets.weapon.indices = {'Savage Spam', 'Weak', 'CDC Spam', 'Magic'}
 sets.weapon.current = 1;
 sets.weapon['Savage Spam'] = {
   main = 'Naegling',
   sub = 'Thibron'
+}
+sets.weapon['Weak'] = {
+  main = 'Almace',
+  sub = 'Ibushi Shinai'
 }
 
 sets.weapon['CDC Spam'] = {
@@ -42,13 +46,14 @@ sets.weapon['Magic'] = {
   sub = 'Vampirism'
 }
 
+
 sets.tp = {};
 sets.tp.indices = {'normal', 'high'}
 sets.tp.current = 1;
 
 sets.tp.normal = {
   ammo = "Ginsen",
-  head = "Adhemar bonnet +1",
+  head = "Malignance Chapeau",
   body = { name="Adhemar Jacket", augments={'DEX+10','AGI+10','Accuracy+15',}},
   hands = "Adhemar Wristbands",
   legs = 'Samnuha Tights',
@@ -57,7 +62,7 @@ sets.tp.normal = {
   waist = "Windbuffet Belt +1",
   ear1 = "Suppanomimi",
   ear2 = "Brutal Earring",
-  ring2 = "Chirich Ring",
+  ring2 = "Epona's Ring",
   ring1 = "Petrov Ring",
   back={ name="Rosmerta's Cape", augments={'DEX+20','Accuracy+20 Attack+20','"Store TP"+10',}},
 };
@@ -68,6 +73,8 @@ sets.tp.high = set_combine(sets.tp.normal, {
   legs = "Jhakri Slops +1",
   feet = "Assim. Charuqs +2"
 })
+
+sets.tpdt = set_combine(sets.tp[sets.tp.indices[sets.tp.current]], sets.dt)
 
 sets.cdc_vorpal = {
   ammo = "Jukukik Feather",
@@ -80,7 +87,7 @@ sets.cdc_vorpal = {
   waist = "Fotia Belt",
   left_ear = "Odr Earring",
   right_ear = "Mache Earring +1",
-  ring1 = "Rajas Ring",
+  ring1 = "Epona's Ring",
   ring2 = "Ramuh Ring",
   back = "Bleating Mantle"
 }
@@ -108,7 +115,8 @@ sets.requiescat = {
   right_ear = "Brutal Earring",
   body = "Amalric Doublet",
   hands = "Jhakri Cuffs +2",
-  ring1 = "Karieyh Ring",
+  ring2 = "Karieyh Ring",
+  ring1 = "Epona's Ring",
   back = "Bleating Mantle",
   waist = "Salire Belt",
   legs= "Luhlaza Shalwar +2",
@@ -131,7 +139,7 @@ sets.nuke = {
   legs= "Luhlaza Shalwar +2",
   feet = "Jhakri Pigaches +2",
   neck = "Sanctity Necklace",
-  waist = "Penitent's Rope",
+  waist = "Acuity Belt +1",
   left_ear = "Friomisi Earring",
   right_ear = "Novio Earring",
   ring1 = "Metamor. Ring +1",
@@ -141,6 +149,11 @@ sets.nuke = {
 
 sets.magic = {}
 sets.magic.nuke = sets.nuke;
+
+sets.magic.dark = set_combine(sets.magic.nuke, { 
+  head = "Pixie Hairpin +1",
+  ring2 = "Archon Ring",
+});
 
 sets.magic.acc = set_combine(sets.magic.nuke, {
   ammo = "Hydrocera",

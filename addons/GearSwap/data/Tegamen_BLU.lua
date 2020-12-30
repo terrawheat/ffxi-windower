@@ -209,9 +209,7 @@ function mc_Magic(spell, act)
           feet = "Hashi. Basmak +1"
         };
         if spell.english == "Tenebral Crush" then
-          equip(set_combine(sets.magic.nuke, baGear, { 
-            head = "Pixie Hairpin +1" 
-          }))
+          equip(sets.magic.dark)
         else
           equip(set_combine(sets.nuke, baGear))
         end
@@ -220,7 +218,7 @@ function mc_Magic(spell, act)
           equip(sets.magic.acc)
         else
           if spell.english == "Tenebral Crush" then
-            equip(set_combine(sets.magic.nuke, { head = "Pixie Hairpin +1" }))
+            equip(sets.magic.dark)
           else
             equip(sets.magic.nuke)
           end

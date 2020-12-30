@@ -29,6 +29,33 @@
                     <prelude>0</prelude>
                 </song_bonus>
             </joachim>
+            <terrana>
+                <emperean_armor_bonus>2</emperean_armor_bonus>
+                <gjallarhorn>true</gjallarhorn>
+                <jp>
+                    <minne>0</minne>
+                    <minuet>20</minuet>
+                </jp>
+                <merits>
+                    <madrigal>5</madrigal>
+                    <minne>0</minne>
+                    <minuet>5</minuet>
+                </merits>
+                <song_bonus>
+                    <all_songs>6</all_songs>
+                    <ballad>1</ballad>
+                    <carol>1</carol>
+                    <etude>1</etude>
+                    <madrigal>1</madrigal>
+                    <mambo>1</mambo>
+                    <march>1</march>
+                    <mazurka>0</mazurka>
+                    <minne>0</minne>
+                    <minuet>1</minuet>
+                    <paeon>2</paeon>
+                    <prelude>1</prelude>
+                </song_bonus>
+            </terrana>
             <ulmia>
                 <emperean_armor_bonus>0</emperean_armor_bonus>
                 <gjallarhorn>false</gjallarhorn>
@@ -59,6 +86,7 @@
         </Bards>
         <Cors>
             <qultada>0</qultada>
+            <tegamen>5</tegamen>
         </Cors>
         <Geos>
             <Sylvie>0</Sylvie>

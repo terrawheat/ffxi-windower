@@ -21,6 +21,16 @@ end
 
 function get_sets()
   include('./sets/BRD/sets.lua')
+
+  windower.register_event('zone change', function (newId, oldId) 
+    if newId == 256 or newId == 257 then
+      tellMe('In Adoulin - equip run speed up')
+      equip({
+        body = "Councilor's Garb",
+        hands = "Councilor's Cuffs"
+      })
+    end
+  end)
 end
 
 function buff_change(n, gain, buff_table)
@@ -40,12 +50,21 @@ function buff_change(n, gain, buff_table)
 end
 
 function IdleState()
-  equip(sets.idle)
+  if buffactive['Elvorseal'] then
+    equip(set_combine(sets.idle, sets.domain_invasion))
+  else
+    equip(sets.idle)
+  end
 end
 
 function EngagedState()
-  tellMe('Switching to TP/TH set')
-  equip(sets.tp)
+  if buffactive['Elvorseal'] then
+    tellMe('Switching to TP in DI set')
+    equip(set_combine(sets.tp, sets.domain_invasion))
+  else
+    tellMe('Switching to TP set')
+    equip(sets.tp)
+  end
 end
 
 function ac_Global()
@@ -62,13 +81,57 @@ function pc_JA(spell)
 end
 
 function pc_Magic(spell)
+  if spell.skill == 'Singing' then
+    if string.find(spell.english, 'Lullaby') then
+      equip(set_combine(sets.precast.song, {
+        range = 'Blurred Harp +1'
+      }))
+    else
+      equip(sets.precast.song)
+    end
+  else
+    equip(sets.precast.base)
+  end
 end
 
 function mc_JA()
 end
 
 function mc_Magic(spell, act)
-
+  if spell.skill == 'Singing' then
+    if string.find(spell.english, 'Ballad') then
+      equip(sets.midcast.song.ballad)
+    elseif string.find(spell.english, 'Paeon') then
+      equip(sets.midcast.song.paeon)
+    elseif string.find(spell.english, 'Carol') then
+      equip(sets.midcast.song.carol)
+    elseif string.find(spell.english, 'Mambo') then
+      equip(sets.midcast.song.mambo)
+    elseif string.find(spell.english, 'Etude') then
+      equip(sets.midcast.song.etude)
+    elseif string.find(spell.english, 'Threnody') then
+      equip(sets.midcast.song.threnody)
+    elseif string.find(spell.english, 'Nocturne') 
+      or string.find(spell.english, 'Elegy')
+      or string.find(spell.english, 'Requiem')
+    then
+      equip(sets.midcast.song.debuff)
+    elseif string.find(spell.english, 'Lullaby') then
+      equip(sets.midcast.song.lullaby)
+    elseif string.find(spell.english, 'Scherzo') then
+      equip(sets.midcast.song.scherzo)
+    else
+      equip(sets.midcast.song.base)
+    end
+  elseif spell.skill == 'Enhancing Magic' then
+    if string.find(spell.english, 'Bar') then
+      equip(sets.midcast.spell.bar)
+    elseif spell.english == 'Aquaveil' then
+      equip(sets.midcast.spell.aquaveil)
+    else
+      equip(sets.midcast.spell.enhancing)
+    end
+  end
 end
 
 function status_change(new, old)

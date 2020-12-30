@@ -13,8 +13,8 @@ sets.tp = {
   waist="Windbuffet Belt +1",
   left_ear="Mache Earring +1",
   right_ear="Brutal Earring",
-  left_ring="Chirich Ring",
-  right_ring="Rajas Ring",
+  left_ring="Petrov Ring",
+  right_ring="Epona's Ring",
   back="Bleating Mantle",
   neck = "Sanctity Necklace"
 }
@@ -39,7 +39,7 @@ sets.tp_th = set_combine(sets.tp, {
 })
 
 sets.dt = {
-  head="Meghanada Visor +1",
+  head="Malignance Chapeau",
   body="Meghanada Cuirie",
   hands="Meg. Gloves +1",
   legs={ name="Iuitl Tights +1", augments={'Phys. dmg. taken -4%','Magic dmg. taken -4%','Crit.hit rate+1',}},

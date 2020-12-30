@@ -1,10 +1,13 @@
 sets.idle = {}
 
-sets.dt = {}
+sets.dt = {
+  head = 'Malignance Chapeau',
+  ring1 = 'Defending Ring'
+}
 
 sets.tp = {
   ammo="Togakushi Shuriken",
-  head={ name="Naga Somen", augments={'STR+10','Accuracy+15','"Subtle Blow"+7',}},
+  head="Adhemar Bonnet +1",
   body={ name="Adhemar Jacket", augments={'DEX+10','AGI+10','Accuracy+15',}},
   hands={ name="Adhemar Wristbands", augments={'DEX+10','AGI+10','Accuracy+15',}},
   legs="Samnuha Tights",
@@ -13,8 +16,8 @@ sets.tp = {
   waist="Windbuffet Belt +1",
   left_ear="Brutal Earring",
   right_ear="Suppanomimi",
-  left_ring="Chirich Ring",
-  right_ring="Rajas Ring",
+  left_ring="Petrov Ring",
+  right_ring="Epona's Ring",
   back="Bleating Mantle",
 }
 

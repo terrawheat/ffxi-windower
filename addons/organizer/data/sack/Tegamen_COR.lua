@@ -1,37 +1,40 @@
 return {
     [1]={
-        ["log_name"]="vial of slime oil", 
-        ["count"]=4, 
-        ["id"]=637, 
-        ["name"]="slime oil", 
+        ["log_name"]="hashishin bazubands +1", 
+        ["count"]=1, 
+        ["id"]=27083, 
+        ["name"]="hashi. bazu. +1", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [2]={
-        ["log_name"]="bag of vegetable seeds", 
+        ["log_name"]="mirage stole +1", 
         ["count"]=1, 
-        ["id"]=573, 
-        ["name"]="vegetable seeds", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
+        ["augments"]={
+            [1]="Path: A"
+        }, 
+        ["id"]=25508, 
+        ["name"]="mirage stole +1", 
+        ["extdata"]="03830000A807BC02D6000000000000000000000000000000"
     }, 
     [3]={
-        ["log_name"]="togakushi shuriken", 
+        ["log_name"]="impatiens", 
         ["count"]=1, 
-        ["id"]=21357, 
-        ["name"]="togakushi shuriken", 
+        ["id"]=19761, 
+        ["name"]="impatiens", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [4]={
-        ["log_name"]="ichigohitofuri", 
+        ["log_name"]="ginsen", 
         ["count"]=1, 
-        ["id"]=21027, 
-        ["name"]="ichigohitofuri", 
+        ["id"]=21371, 
+        ["name"]="ginsen", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [5]={
-        ["log_name"]="jhakri slops +1", 
+        ["log_name"]="assimilator's keffiyeh +2", 
         ["count"]=1, 
-        ["id"]=25868, 
-        ["name"]="jhakri slops +1", 
+        ["id"]=23055, 
+        ["name"]="assim. keffiyeh +2", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [6]={
@@ -42,110 +45,157 @@ return {
         ["extdata"]="010100C8E2C6E31E00000000000000000000000000000000"
     }, 
     [7]={
-        ["log_name"]="jhakri pigaches +1", 
+        ["log_name"]="adsilio boots", 
         ["count"]=1, 
-        ["id"]=25934, 
-        ["name"]="jhakri pigaches +1", 
+        ["id"]=28271, 
+        ["name"]="adsilio boots", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [8]={
-        ["log_name"]="witful belt", 
+        ["log_name"]="jukukik feather", 
         ["count"]=1, 
-        ["id"]=10826, 
-        ["name"]="witful belt", 
+        ["id"]=21386, 
+        ["name"]="jukukik feather", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [9]={
-        ["log_name"]="square of grass cloth", 
-        ["count"]=10, 
-        ["id"]=824, 
-        ["name"]="grass cloth", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
+        ["log_name"]="rawhide trousers", 
+        ["count"]=1, 
+        ["augments"]={
+            [1]="MP+50", 
+            [2]="\"Fast Cast\"+5", 
+            [3]="\"Refresh\"+1"
+        }, 
+        ["id"]=27285, 
+        ["name"]="rawhide trousers", 
+        ["extdata"]="02233F00AAFB0431B4047D00000000000000000000000000"
     }, 
     [10]={
-        ["log_name"]="penitent's rope", 
+        ["log_name"]="relic bow", 
         ["count"]=1, 
-        ["id"]=15292, 
-        ["name"]="penitent's rope", 
+        ["id"]=18344, 
+        ["name"]="relic bow", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [11]={
-        ["log_name"]="fi follet cape", 
-        ["count"]=1, 
-        ["id"]=27609, 
-        ["name"]="fi follet cape", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [12]={
-        ["log_name"]="leyline gloves", 
+        ["log_name"]="psycloth lappas", 
         ["count"]=1, 
         ["augments"]={
-            [1]="Accuracy+5", 
-            [2]="Mag. Acc.+6", 
-            [3]="\"Mag.Atk.Bns.\"+1"
+            [1]="MP+80", 
+            [2]="Mag. Acc.+15", 
+            [3]="\"Fast Cast\"+7"
         }, 
-        ["id"]=27135, 
-        ["name"]="leyline gloves", 
-        ["extdata"]="020317202328850000000000000000000000000000000000"
+        ["id"]=27287, 
+        ["name"]="psycloth lappas", 
+        ["extdata"]="02233F00AAFB044F180EB406000000000000000000000000"
+    }, 
+    [12]={
+        ["log_name"]="carmine mask +1", 
+        ["count"]=1, 
+        ["augments"]={
+            [1]="Accuracy+20", 
+            [2]="Mag. Acc.+12", 
+            [3]="\"Fast Cast\"+4"
+        }, 
+        ["id"]=26679, 
+        ["name"]="carmine mask +1", 
+        ["extdata"]="02233F00AAFB0C13180BB403000000000000000000000000"
     }, 
     [13]={
-        ["log_name"]="hashishin tayt +1", 
+        ["log_name"]="falcon eye", 
         ["count"]=1, 
-        ["id"]=27268, 
-        ["name"]="hashishin tayt +1", 
+        ["id"]=22253, 
+        ["name"]="falcon eye", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [14]={
-        ["log_name"]="swith cape", 
+        ["log_name"]="mirage keffiyeh", 
         ["count"]=1, 
-        ["id"]=11000, 
-        ["name"]="swith cape", 
+        ["id"]=11465, 
+        ["name"]="mirage keffiyeh", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [15]={
-        ["log_name"]="mirage stole +1", 
-        ["count"]=1, 
-        ["augments"]={
-            [1]="Path: A"
-        }, 
-        ["id"]=25508, 
-        ["name"]="mirage stole +1", 
-        ["extdata"]="03830000A807BC02D6000000000000000000000000000000"
+        ["log_name"]="lustreless wing", 
+        ["count"]=4, 
+        ["id"]=4088, 
+        ["name"]="lustreless wing", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [16]={
-        ["log_name"]="prolix ring", 
+        ["log_name"]="assimilator's jubbah +2", 
         ["count"]=1, 
-        ["id"]=10752, 
-        ["name"]="prolix ring", 
+        ["id"]=23122, 
+        ["name"]="assim. jubbah +2", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [17]={
-        ["log_name"]="azimuth hood +1", 
+        ["log_name"]="acuity belt +1", 
         ["count"]=1, 
-        ["id"]=26781, 
-        ["name"]="azimuth hood +1", 
+        ["id"]=28430, 
+        ["name"]="acuity belt +1", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [18]={
-        ["log_name"]="geomancy galero", 
+        ["log_name"]="hydrocera", 
         ["count"]=1, 
-        ["id"]=27786, 
-        ["name"]="geomancy galero", 
+        ["id"]=22263, 
+        ["name"]="hydrocera", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [19]={
-        ["log_name"]="amalric doublet", 
+        ["log_name"]="jhakri robe +1", 
         ["count"]=1, 
-        ["augments"]={
-            [1]="MP+60", 
-            [2]="Mag. Acc.+15", 
-            [3]="\"Mag.Atk.Bns.\"+15"
-        }, 
-        ["id"]=25688, 
-        ["name"]="amalric doublet", 
-        ["extdata"]="02233C00AAFB043B180E140E000000000000000000000000"
+        ["id"]=25754, 
+        ["name"]="jhakri robe +1", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [20]={
+        ["log_name"]="flamma korazin", 
+        ["count"]=1, 
+        ["id"]=25779, 
+        ["name"]="flamma korazin", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [21]={
+        ["log_name"]="pillager's bonnet +2", 
+        ["count"]=1, 
+        ["id"]=23045, 
+        ["name"]="pill. bonnet +2", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [22]={
+        ["log_name"]="geomancy galero +1", 
+        ["count"]=1, 
+        ["id"]=27705, 
+        ["name"]="geo. galero +1", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [23]={
+        ["log_name"]="taeon tabard", 
+        ["count"]=1, 
+        ["augments"]={
+            [2]="\"Fast Cast\"+5"
+        }, 
+        ["id"]=26893, 
+        ["name"]="taeon tabard", 
+        ["extdata"]="020300008C20000000000000000000000000000000000000"
+    }, 
+    [24]={
+        ["log_name"]="flamma zucchetto +2", 
+        ["count"]=1, 
+        ["id"]=25569, 
+        ["name"]="flam. zucchetto +2", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [25]={
+        ["log_name"]="knobkierrie", 
+        ["count"]=1, 
+        ["id"]=22281, 
+        ["name"]="knobkierrie", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [26]={
         ["log_name"]="rosmerta's cape", 
         ["count"]=1, 
         ["augments"]={
@@ -158,17 +208,19 @@ return {
         ["name"]="rosmerta's cape", 
         ["extdata"]="0203019A449817488E480000000000000000000000000000"
     }, 
-    [21]={
-        ["log_name"]="bagua tunic +1", 
+    [27]={
+        ["log_name"]="ichigohitofuri", 
         ["count"]=1, 
         ["augments"]={
-            [3]="Enhances \"Bolster\" effect"
+            [1]="DMG:+30", 
+            [2]="STR+20", 
+            [3]="Accuracy+15"
         }, 
-        ["id"]=26841, 
-        ["name"]="bagua tunic +1", 
-        ["extdata"]="024300000000142D0000D394000000000000000000000000"
+        ["id"]=21027, 
+        ["name"]="ichigohitofuri", 
+        ["extdata"]="02233D00AAFB1C1DBF130C0E000000000000000000000000"
     }, 
-    [22]={
+    [28]={
         ["log_name"]="cornflower cape", 
         ["count"]=1, 
         ["augments"]={
@@ -180,113 +232,70 @@ return {
         ["name"]="cornflower cape", 
         ["extdata"]="02030978011A171800000000000000000000000000000000"
     }, 
-    [23]={
-        ["log_name"]="telchine chasuble", 
-        ["count"]=1, 
-        ["augments"]={
-            [1]="DEF+18", 
-            [2]="Pet: \"Regen\"+2", 
-            [3]="Pet: Damage taken -4%"
-        }, 
-        ["id"]=26894, 
-        ["name"]="telchine chas.", 
-        ["extdata"]="020321886E08701800000000000000000000000000000000"
-    }, 
-    [24]={
-        ["log_name"]="azimuth coat", 
-        ["count"]=1, 
-        ["id"]=26938, 
-        ["name"]="azimuth coat", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [25]={
-        ["log_name"]="geomancy tunic", 
-        ["count"]=1, 
-        ["id"]=27926, 
-        ["name"]="geomancy tunic", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [26]={
-        ["log_name"]="geomancy mitaines +2", 
-        ["count"]=1, 
-        ["id"]=23195, 
-        ["name"]="geo. mitaines +2", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [27]={
-        ["log_name"]="bagua pants", 
-        ["count"]=1, 
-        ["augments"]={
-            [3]="Enhances \"Mending Halation\" effect"
-        }, 
-        ["id"]=27192, 
-        ["name"]="bagua pants", 
-        ["extdata"]="024300000000A80500006794000000000000000000000000"
-    }, 
-    [28]={
-        ["log_name"]="bagua galero", 
-        ["count"]=1, 
-        ["augments"]={
-            [3]="Enhances \"Primeval Zeal\" effect"
-        }, 
-        ["id"]=26664, 
-        ["name"]="bagua galero", 
-        ["extdata"]="024300000000AB0500006494000000000000000000000000"
-    }, 
     [29]={
-        ["log_name"]="telchine braconi", 
+        ["log_name"]="assimilator's bazubands +2", 
         ["count"]=1, 
-        ["augments"]={
-            [2]="Pet: \"Regen\"+3", 
-            [3]="Pet: Damage taken -3%"
-        }, 
-        ["id"]=27235, 
-        ["name"]="telchine braconi", 
-        ["extdata"]="020300006E10701000000000000000000000000000000000"
+        ["id"]=23189, 
+        ["name"]="assim. bazu. +2", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [30]={
-        ["log_name"]="assiduity pants +1", 
+        ["log_name"]="aquiline belt", 
         ["count"]=1, 
-        ["id"]=28135, 
-        ["name"]="assid. pants +1", 
+        ["id"]=11733, 
+        ["name"]="aquiline belt", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [31]={
-        ["log_name"]="geomancy pants", 
+        ["log_name"]="enchanter earring +1", 
         ["count"]=1, 
-        ["id"]=28206, 
-        ["name"]="geomancy pants", 
+        ["id"]=28494, 
+        ["name"]="enchntr. earring +1", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [32]={
-        ["log_name"]="geomancy sandals +2", 
+        ["log_name"]="flamma manopolas +1", 
         ["count"]=1, 
-        ["id"]=23329, 
-        ["name"]="geo. sandals +2", 
+        ["id"]=25819, 
+        ["name"]="flam. manopolas +1", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [33]={
-        ["log_name"]="bagua sandals +1", 
+        ["log_name"]="jhakri cuffs +2", 
         ["count"]=1, 
-        ["augments"]={
-            [3]="Enhances \"Radial Arcana\" effect"
-        }, 
-        ["id"]=27369, 
-        ["name"]="bagua sandals +1", 
-        ["extdata"]="024300000000A9050000D694000000000000000000000000"
+        ["id"]=25832, 
+        ["name"]="jhakri cuffs +2", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [34]={
-        ["log_name"]="telchine pigaches", 
+        ["log_name"]="wakido domaru +2", 
         ["count"]=1, 
-        ["augments"]={
-            [2]="Pet: \"Regen\"+3", 
-            [3]="Pet: Damage taken -4%"
-        }, 
-        ["id"]=27405, 
-        ["name"]="telchine pigaches", 
-        ["extdata"]="020300006E10701800000000000000000000000000000000"
+        ["id"]=23118, 
+        ["name"]="wakido domaru +2", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [35]={
+        ["log_name"]="prolix ring", 
+        ["count"]=1, 
+        ["id"]=10752, 
+        ["name"]="prolix ring", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [36]={
+        ["log_name"]="phulax bow", 
+        ["count"]=1, 
+        ["id"]=21232, 
+        ["name"]="phulax bow", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [37]={
+        ["log_name"]="nepenthe grip +1", 
+        ["count"]=1, 
+        ["id"]=22205, 
+        ["name"]="nepenthe grip +1", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [38]={
         ["log_name"]="taeon chapeau", 
         ["count"]=1, 
         ["augments"]={
@@ -298,59 +307,68 @@ return {
         ["name"]="taeon chapeau", 
         ["extdata"]="020323582910262A00000000000000000000000000000000"
     }, 
-    [36]={
-        ["log_name"]="azimuth gaiters +1", 
-        ["count"]=1, 
-        ["id"]=27452, 
-        ["name"]="azimuth gaiters +1", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
-    [37]={
-        ["log_name"]="bagua charm +1", 
-        ["count"]=1, 
-        ["augments"]={
-            [1]="Path: A"
-        }, 
-        ["id"]=25538, 
-        ["name"]="bagua charm +1", 
-        ["extdata"]="038300001806B802DB000000005F6BA72000000000000000"
-    }, 
-    [38]={
-        ["log_name"]="malignance earring", 
-        ["count"]=1, 
-        ["id"]=26088, 
-        ["name"]="malignance earring", 
-        ["extdata"]="000000000000000000000000000000000000000000000000"
-    }, 
     [39]={
-        ["log_name"]="enchanter earring +1", 
+        ["log_name"]="assimilator's shalwar +2", 
         ["count"]=1, 
-        ["id"]=28494, 
-        ["name"]="enchntr. earring +1", 
+        ["id"]=23256, 
+        ["name"]="assim. shalwar +2", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [40]={
-        ["log_name"]="loquacious earring", 
+        ["log_name"]="hizamaru hizayoroi", 
         ["count"]=1, 
-        ["id"]=14812, 
-        ["name"]="loquac. earring", 
+        ["id"]=25862, 
+        ["name"]="hiza. hizayoroi", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [41]={
-        ["log_name"]="stikini ring", 
+        ["log_name"]="jhakri slops +1", 
         ["count"]=1, 
-        ["id"]=26183, 
-        ["name"]="stikini ring", 
+        ["id"]=25868, 
+        ["name"]="jhakri slops +1", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
     [42]={
+        ["log_name"]="jhakri coronal +2", 
+        ["count"]=1, 
+        ["id"]=25578, 
+        ["name"]="jhakri coronal +2", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [43]={
+        ["log_name"]="mummu bonnet", 
+        ["count"]=1, 
+        ["id"]=25581, 
+        ["name"]="mummu bonnet", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [44]={
+        ["log_name"]="amalric doublet", 
+        ["count"]=1, 
+        ["augments"]={
+            [1]="MP+60", 
+            [2]="Mag. Acc.+15", 
+            [3]="\"Mag.Atk.Bns.\"+15"
+        }, 
+        ["id"]=25688, 
+        ["name"]="amalric doublet", 
+        ["extdata"]="02233C00AAFB043B180E140E000000000000000000000000"
+    }, 
+    [45]={
         ["log_name"]="assimilator's charuqs +2", 
         ["count"]=1, 
         ["id"]=23323, 
         ["name"]="assim. charuqs +2", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
-    [43]={
+    [46]={
+        ["log_name"]="ayanmo gambieras +2", 
+        ["count"]=1, 
+        ["id"]=25951, 
+        ["name"]="aya. gambieras +2", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [47]={
         ["log_name"]="luhlaza charuqs", 
         ["count"]=1, 
         ["augments"]={
@@ -360,25 +378,224 @@ return {
         ["name"]="luhlaza charuqs", 
         ["extdata"]="0243000000008D0500004F94000000000000000000000000"
     }, 
-    [44]={
-        ["log_name"]="hashishin mintan +1", 
+    [48]={
+        ["log_name"]="taeon boots", 
         ["count"]=1, 
-        ["id"]=26929, 
-        ["name"]="hashishin mintan +1", 
+        ["augments"]={
+            [1]="Attack+20", 
+            [2]="\"Fast Cast\"+4", 
+            [3]="Crit. hit damage +3%"
+        }, 
+        ["id"]=27404, 
+        ["name"]="taeon boots", 
+        ["extdata"]="020319988C18481100000000000000000000000000000000"
+    }, 
+    [49]={
+        ["log_name"]="valorous mask", 
+        ["count"]=1, 
+        ["augments"]={
+            [1]="Attack+19", 
+            [2]="Pet: STR+7", 
+            [3]="Quadruple Attack +2", 
+            [4]="Accuracy+16 Attack+16"
+        }, 
+        ["id"]=25641, 
+        ["name"]="valorous mask", 
+        ["extdata"]="020319900037620944780000000000000000000000000000"
+    }, 
+    [50]={
+        ["log_name"]="wakido kabuto +1", 
+        ["count"]=1, 
+        ["id"]=27695, 
+        ["name"]="wakido kabuto +1", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
-    [45]={
-        ["log_name"]="hashishin bazubands +1", 
+    [51]={
+        ["log_name"]="ryuo domaru", 
         ["count"]=1, 
-        ["id"]=27083, 
-        ["name"]="hashi. bazu. +1", 
+        ["augments"]={
+            [1]="HP+50", 
+            [2]="\"Store TP\"+5", 
+            [3]="\"Dbl.Atk.\"+2"
+        }, 
+        ["id"]=25684, 
+        ["name"]="ryuo domaru", 
+        ["extdata"]="02233F00AAFB0231B904BA01000000000000000000000000"
+    }, 
+    [52]={
+        ["log_name"]="witful belt", 
+        ["count"]=1, 
+        ["id"]=10826, 
+        ["name"]="witful belt", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
     }, 
-    [46]={
-        ["log_name"]="ayanmo gambieras +2", 
+    [53]={
+        ["log_name"]="penitent's rope", 
         ["count"]=1, 
-        ["id"]=25951, 
-        ["name"]="aya. gambieras +2", 
+        ["id"]=15292, 
+        ["name"]="penitent's rope", 
         ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [54]={
+        ["log_name"]="swith cape", 
+        ["count"]=1, 
+        ["id"]=11000, 
+        ["name"]="swith cape", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [55]={
+        ["log_name"]="mummu jacket", 
+        ["count"]=1, 
+        ["id"]=25781, 
+        ["name"]="mummu jacket", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [56]={
+        ["log_name"]="kendatsuba samue", 
+        ["count"]=1, 
+        ["id"]=26527, 
+        ["name"]="ken. samue", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [57]={
+        ["log_name"]="sakonji domaru +1", 
+        ["count"]=1, 
+        ["augments"]={
+            [3]="Enhances \"Overwhelm\" effect"
+        }, 
+        ["id"]=26823, 
+        ["name"]="sakonji domaru +1", 
+        ["extdata"]="02430000000073050000A694000000000000000000000000"
+    }, 
+    [58]={
+        ["log_name"]="ifrit ring", 
+        ["count"]=1, 
+        ["id"]=27564, 
+        ["name"]="ifrit ring", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [59]={
+        ["log_name"]="kasuga domaru +1", 
+        ["count"]=1, 
+        ["id"]=26921, 
+        ["name"]="kasuga domaru +1", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [60]={
+        ["log_name"]="founder's breastplate", 
+        ["count"]=1, 
+        ["augments"]={
+            [1]="Accuracy+12", 
+            [2]="Mag. Acc.+12"
+        }, 
+        ["id"]=27910, 
+        ["name"]="found. breastplate", 
+        ["extdata"]="020317582358000000000000000000000000000000000000"
+    }, 
+    [61]={
+        ["log_name"]="wakido kote +2", 
+        ["count"]=1, 
+        ["id"]=23185, 
+        ["name"]="wakido kote +2", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [62]={
+        ["log_name"]="mummu wrists", 
+        ["count"]=1, 
+        ["id"]=25820, 
+        ["name"]="mummu wrists", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [63]={
+        ["log_name"]="herculean trousers", 
+        ["count"]=1, 
+        ["augments"]={
+            [1]="Attack+24", 
+            [2]="Crit. hit damage +1%", 
+            [3]="DEX+8"
+        }, 
+        ["id"]=25842, 
+        ["name"]="herculean trousers", 
+        ["extdata"]="020319B84801013A00000000000000000000000000000000"
+    }, 
+    [64]={
+        ["log_name"]="valorous mitts", 
+        ["count"]=1, 
+        ["augments"]={
+            [1]="Accuracy+22", 
+            [2]="Weapon skill damage +3%", 
+            [3]="STR+8"
+        }, 
+        ["id"]=27139, 
+        ["name"]="valorous mitts", 
+        ["extdata"]="020317A84711003A00000000000000000000000000000000"
+    }, 
+    [65]={
+        ["log_name"]="founder's gauntlets", 
+        ["count"]=1, 
+        ["augments"]={
+            [1]="STR+7", 
+            [2]="Attack+12", 
+            [3]="\"Mag.Atk.Bns.\"+10"
+        }, 
+        ["id"]=28049, 
+        ["name"]="founder's gauntlets", 
+        ["extdata"]="020300321958854800000000000000000000000000000000"
+    }, 
+    [66]={
+        ["log_name"]="wakido haidate +2", 
+        ["count"]=1, 
+        ["id"]=23252, 
+        ["name"]="wakido haidate +2", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [67]={
+        ["log_name"]="herculean trousers", 
+        ["count"]=1, 
+        ["augments"]={
+            [1]="DEX+7", 
+            [2]="Pet: Phys. dmg. taken -2%", 
+            [3]="Quadruple Attack +1", 
+            [4]="Accuracy+15 Attack+15"
+        }, 
+        ["id"]=25842, 
+        ["name"]="herculean trousers", 
+        ["extdata"]="020301327608620144700000000000000000000000000000"
+    }, 
+    [68]={
+        ["log_name"]="kendatsuba hakama", 
+        ["count"]=1, 
+        ["id"]=25891, 
+        ["name"]="ken. hakama", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [69]={
+        ["log_name"]="luhlaza shalwar +2", 
+        ["count"]=1, 
+        ["augments"]={
+            [3]="Enhances \"Assimilation\" effect"
+        }, 
+        ["id"]=23279, 
+        ["name"]="luhlaza shalwar +2", 
+        ["extdata"]="0243000000008C0500002D95000000000000000000000000"
+    }, 
+    [70]={
+        ["log_name"]="hashishin tayt +1", 
+        ["count"]=1, 
+        ["id"]=27268, 
+        ["name"]="hashishin tayt +1", 
+        ["extdata"]="000000000000000000000000000000000000000000000000"
+    }, 
+    [71]={
+        ["log_name"]="ryuo hakama", 
+        ["count"]=1, 
+        ["augments"]={
+            [1]="Accuracy+20", 
+            [2]="\"Store TP\"+4", 
+            [3]="Phys. dmg. taken -3"
+        }, 
+        ["id"]=27300, 
+        ["name"]="ryuo hakama", 
+        ["extdata"]="02233F00AAFB0C13B903BC02000000000000000000000000"
     }
 }

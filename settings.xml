@@ -37,6 +37,7 @@
     <addon>SubTarget</addon>
     <addon>itemizer</addon>
     <addon>capetrader</addon>
+    <addon>stna</addon>
     <plugin>Config</plugin>
     <plugin>DelayMeNot</plugin>
     <plugin>FFXIDB</plugin>
@@ -44,6 +45,7 @@
     <plugin>Timers</plugin>
     <plugin>Guildwork</plugin>
     <plugin>Sandbox</plugin>
+    <plugin>JaZero</plugin>
   </autoload>
   <profile name="">
     <consolekey>Insert</consolekey>
