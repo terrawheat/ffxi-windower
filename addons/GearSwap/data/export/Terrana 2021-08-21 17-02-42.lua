@@ -1,0 +1,18 @@
+sets.exported={
+    main={ name="Malevolence", augments={'INT+4','Mag. Acc.+3','"Mag.Atk.Bns."+2','"Fast Cast"+2',}},
+    sub="Tauret",
+    range={ name="Gastraphetes", augments={'Path: A',}},
+    ammo="Quelling Bolt",
+    head="Meghanada Visor +2",
+    body="Malignance Tabard",
+    hands="Meg. Gloves +2",
+    legs={ name="Carmine Cuisses +1", augments={'Accuracy+20','Attack+12','"Dual Wield"+6',}},
+    feet={ name="Herculean Boots", augments={'Attack+5','Weapon skill damage +8%','Accuracy+11 Attack+11','Mag. Acc.+8 "Mag.Atk.Bns."+8',}},
+    neck="Loricate Torque +1",
+    waist="Eschan Stone",
+    left_ear="Infused Earring",
+    right_ear="Odnowa Earring +1",
+    left_ring="Defending Ring",
+    right_ring="Warden's Ring",
+    back={ name="Belenus's Cape", augments={'AGI+20','Rng.Acc.+20 Rng.Atk.+20','AGI+10','"Store TP"+10',}},
+}
