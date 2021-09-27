@@ -1,0 +1,13 @@
+bind delete ffo me; /echo Follow: Start
+bind ^delete ffo stopall;input /echo Follow: End
+
+bind !e send Terrana /erase teg
+bind @e stna
+
+bind pagedown sat alltarget;wait 0.3;sa gs c Nuke1
+bind ^pagedown sat alltarget;wait 0.3;sa gs c Nuke2
+
+bind ^f4 sa /mount raptor
+bind ~f4 sa /dismount
+
+bind ` input /targetbnpc

@@ -1,0 +1,4 @@
+tru wkr
+sa gs c toggle autowsmode
+sa gs c toggle autobuffmode
+send daerona gs c toggle autonukemode

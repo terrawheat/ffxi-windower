@@ -1,0 +1,12 @@
+  
+alias sa send @all
+alias sac send @all gs c
+alias sas send @all exec
+alias la send @all tr lotall
+alias pa send @all tr passall
+alias so send @others
+
+alias formup input /pcmd add terrana;wait 1;input /pcmd add daerona;wait 2;so /join
+alias stealth so /sneak Tegamen;wait 7;so /invisible Tegamen;wait 7;so /sneak me;wait 7;so /invisible me
+
+alias smc sa gs c smartcure

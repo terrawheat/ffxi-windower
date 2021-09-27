@@ -1,0 +1,60 @@
+keyboard_allowmmf 1
+
+//Set console variables
+console_position 15 50
+console_color 255 255 0 0
+console_displayactivity 1
+console_fadedelay 3500
+console_chatopen 1
+console_screendir screenshots
+
+//Set game variables
+game_forceambientlight 0
+game_ambientlight 255 120 120 120
+game_gamma 50
+game_allowsetcursorpos 0
+game_exittype 0
+game_exitprompt 1
+game_allowresize 0
+
+//Set general variables
+//showfps 1
+// FPS Position - Use -75 1 to position it on the top right corner.
+//fps_position 5 5 //top left
+fps_position -75 1 //top right
+
+drawdistance set 10
+//Bind keys
+//Bind syntax is "bind <key> <up> <command>
+// ^ represents control- and ! is alt, eg !1 is alt-1
+bind ^v paste
+
+//Sets ConsoleBG Background Position
+consolebg position 15 50
+
+lua load XIPivot
+lua load equipviewer
+du blinking self combat off
+equipviewer pos 3172 880
+lua load sendalltarget
+lua load Skillchains
+lua load TradeNPC
+lua load quicktrade
+lua load htmb
+lua load react
+lua load sellnpc
+lua load sparks
+lua load superwarp
+lua load smeagol
+lua load shout_ml
+lua load fastfollow
+lua load anchor
+
+config FrameRateDivisor 1
+
+exec alias.txt
+exec binds.txt
+
+wait 30
+
+lua load GearInfo

@@ -1,0 +1,11 @@
+input /erraticflutter
+wait 6
+input /cocoon
+wait 6
+input /unbridledlearning
+wait 2
+input /diffusion
+wait 2
+input /mightyguard
+wait 6
+input /natmeditation

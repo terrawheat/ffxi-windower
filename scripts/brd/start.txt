@@ -1,0 +1,17 @@
+input /armyspaeon
+wait 6
+input /armyspaeon2
+wait 6
+input /armyspaeon3
+wait 6
+input /nightingale
+wait 2
+input /troubadour
+wait 1
+input /marcato
+wait 3
+input /victorymarch
+wait 6
+input /valorminuet5
+wait 6
+input /darkcarol

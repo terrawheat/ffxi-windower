@@ -1,0 +1,9 @@
+/frazzle2
+wait 4
+/distract2
+wait 4
+/slow2
+wait 4
+/paralyze2
+wait 4
+/inundation

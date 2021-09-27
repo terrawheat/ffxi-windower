@@ -1,0 +1,29 @@
+puts beite* case
+puts riftborn* case
+puts pluton case
+puts lustreles* satchel
+puts *ite case
+puts echo* case
+puts grape* case
+puts *crepe case
+puts skeleton key case
+puts carbonara case
+puts toolbag* case
+puts abdha* satchel
+puts rusted* satchel
+puts heroism* satchel
+puts tukuk* satchel
+puts ordelle* satchel
+puts one byne* satchel
+puts forgotten* satchel
+puts paragon* satchel
+puts "Eschalixir +2" satchel
+puts kupon aw* case
+puts h*bayld satchel
+puts *card satchel
+puts mhuufy* case
+puts carabosse* satchel
+puts ulhua* satchel
+puts cirein* satchel
+puts iron plate satchel
+puts *medal satchel

@@ -1,0 +1,13 @@
+input /lightarts
+wait 3
+input /accession
+wait 3
+input /perpetuance
+wait 3
+input /regen5 me
+wait 8
+input /perpetuance
+wait 3
+gs c elemental weather
+wait 7
+input /klimaform

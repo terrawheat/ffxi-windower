@@ -1,0 +1,6 @@
+wait 1
+input /carnageelegy
+wait 5
+input /icethrenody2
+wait 5
+input /piningnocturne

@@ -1,0 +1,5 @@
+input /darkarts
+wait 1
+input /manifestation
+wait 2
+input /sleep2

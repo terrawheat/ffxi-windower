@@ -1,0 +1,4 @@
+input /ma "Dream Flower" <t>;
+wait 0.5;
+sat youcommand Terrana "Horde Lullaby II";
+input /echo Sleeps fired

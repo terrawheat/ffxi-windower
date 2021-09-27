@@ -1,0 +1,15 @@
+input /lightarts
+wait 2
+input /accession
+wait 2
+input /protect5 me
+wait 6
+input /accession
+wait 2
+input /shell5 me
+wait 6
+input /accession
+wait 2
+input /perpetuance
+wait 2
+input /regen5 me

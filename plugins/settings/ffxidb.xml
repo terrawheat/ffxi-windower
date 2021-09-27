@@ -1,0 +1,34 @@
+<settings>
+    <global>
+        <X>0</X>
+        <Y>0</Y>
+        <Zoom>100</Zoom>
+        <Opacity>75</Opacity>
+        <ShowPC>true</ShowPC>
+        <ShowNPC>true</ShowNPC>
+        <ShowMob>true</ShowMob>
+        <ShowMarker>true</ShowMarker>
+        <ShowTargetLine>true</ShowTargetLine>
+        <Ranges></Ranges>
+    </global>
+    <Tegamen>
+        <X>3072</X>
+        <Y>34</Y>
+        <Zoom>24</Zoom>
+    </Tegamen>
+    <Terrana>
+        <X>3068</X>
+        <Y>39</Y>
+        <Zoom>20</Zoom>
+    </Terrana>
+    <Bobette>
+        <X>3066</X>
+        <Y>35</Y>
+        <Zoom>30</Zoom>
+    </Bobette>
+    <Daerona>
+        <X>2804</X>
+        <Y>43</Y>
+        <Zoom>30</Zoom>
+    </Daerona>
+</settings>

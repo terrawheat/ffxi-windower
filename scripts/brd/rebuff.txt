@@ -1,0 +1,5 @@
+input /victorymarch
+wait 6
+input /valorminuet5
+wait 6
+input /blademadrigal

@@ -1,0 +1,67 @@
+<settings>
+    <global>
+        <!--One of: Alphabetical, Creation, Duration-->
+        <SortType>Duration</SortType>
+        <Show1HourName>true</Show1HourName>
+        <HighRed>255</HighRed>
+        <FlashG>255</FlashG>
+        <HighBlue>0</HighBlue>
+        <FontSize>10</FontSize>
+        <MedRed>255</MedRed>
+        <RecastTimerLimit>10</RecastTimerLimit>
+        <BuffsTimerLimit>10</BuffsTimerLimit>
+        <CustomTimerLimit>10</CustomTimerLimit>
+        <LowRed>0</LowRed>
+        <BuffsX>200</BuffsX>
+        <TextA>255</TextA>
+        <CustomY>350</CustomY>
+        <TextB>255</TextB>
+        <!--List of spell names to display recasts for if in whitelistMode and to exclude otherwise-->
+        <SpellRecastFilter />
+        <!--List of ability names to display buffs for if in whitelistMode and to exclude otherwise-->
+        <AbilityBuffFilter />
+        <BGR>0</BGR>
+        <BGG>0</BGG>
+        <BGB>0</BGB>
+        <RecastFlashDuration>2</RecastFlashDuration>
+        <BuffsFlashDuration>2</BuffsFlashDuration>
+        <CustomFlashDuration>2</CustomFlashDuration>
+        <FlashR>255</FlashR>
+        <FlashB>0</FlashB>
+        <FontName>Arial</FontName>
+        <FontBold>true</FontBold>
+        <BarSpacing>5</BarSpacing>
+        <RecastX>20</RecastX>
+        <RecastY>350</RecastY>
+        <BuffsY>350</BuffsY>
+        <CustomX>380</CustomX>
+        <!--If true, only items on the recast/buff lists will be displayed-->
+        <WhitelistMode>false</WhitelistMode>
+        <!--List of ability names to display recasts for if in whitelistMode and to exclude otherwise-->
+        <AbilityRecastFilter />
+        <!--List of spell names to display buffs for if in whitelistMode and to exclude otherwise-->
+        <SpellBuffFilter />
+        <!--If true will show a font outline-->
+        <Stroke>true</Stroke>
+        <EnableRecast>true</EnableRecast>
+        <EnableBuffs>true</EnableBuffs>
+        <GraphicalMode>true</GraphicalMode>
+        <ExtendText>true</ExtendText>
+        <TextColoring>true</TextColoring>
+        <SlimMode>true</SlimMode>
+        <ShowTenths>true</ShowTenths>
+        <HighGreen>0</HighGreen>
+        <MedPercent>0.5</MedPercent>
+        <MedGreen>160</MedGreen>
+        <MedBlue>0</MedBlue>
+        <LowPercent>0.25</LowPercent>
+        <LowGreen>255</LowGreen>
+        <LowBlue>0</LowBlue>
+        <TextR>255</TextR>
+        <TextG>255</TextG>
+        <RecastLowToHigh>true</RecastLowToHigh>
+        <BuffsLowToHigh>false</BuffsLowToHigh>
+        <CustomLowToHigh>false</CustomLowToHigh>
+        <BGA>128</BGA>
+    </global>
+</settings>
